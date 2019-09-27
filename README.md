@@ -3,9 +3,13 @@ Proyecto 2
 
 Members:
 Benjamin Tello Bravo
+
 Hugo Bárcenas López
+
 Luis M Cambero Oyervides
+
 Carlos Herrera
+xsw
 Daniel Ortiz Chávez
 
 
