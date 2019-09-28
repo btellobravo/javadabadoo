@@ -1,196 +1,196 @@
-Geometry;stop_id;stop_code;stop_name;stop_desc;stop_lat;stop_lon;trip_heads;agency_id;Geopoint
-"{""type"": ""Point"", ""coordinates"": [-99.17122364, 19.44864628]}";14124.0;;Colegio Militar;Metro 2;19.44864628;-99.17122364;Cuatro Caminos - Tasque√±a;METRO;19.44864628,-99.17122364
-"{""type"": ""Point"", ""coordinates"": [-99.17658806, 19.42025648]}";14119.0;;Chapultepec;Metro 1;19.42025648;-99.17658806;Observatorio - Pantitl√°n;METRO;19.42025648,-99.17658806
-"{""type"": ""Point"", ""coordinates"": [-99.10934, 19.378298]}";14095.0;;Apatlaco;Metro 8;19.378298;-99.10934;Garibaldi - Constituci√≥n de 1917;METRO;19.378298,-99.10934
-"{""type"": ""Point"", ""coordinates"": [-99.08486724, 19.32025578]}";14234.0;;Calle 11;Metro 12;19.32025578;-99.08486724;Tl√°huac - Mixcoac;METRO;19.32025578,-99.08486724
-"{""type"": ""Point"", ""coordinates"": [-99.08690572, 19.44542916]}";14061.0;;Ocean√≠a;Metro L√≠nea 5 correspondencia con l√≠nea B.;19.44542916;-99.08690572;Pantitl√°n - Polit√©cnico;METRO;19.44542916,-99.08690572
-"{""type"": ""Point"", ""coordinates"": [-99.18686628, 19.37567873]}";132131.0;;Mixcoac;Metro L√≠nea 12 correspondencia con l√≠nea 7.;19.37567873;-99.18686628;Mixcoac - Tl√°huac;METRO;19.37567873,-99.18686628
-"{""type"": ""Point"", ""coordinates"": [-99.08233523, 19.40697045]}";14068.0;;Puebla;Metro 9;19.40697045;-99.08233523;Tacubaya - Pantitl√°n;METRO;19.40697045,-99.08233523
-"{""type"": ""Point"", ""coordinates"": [-99.136176, 19.468965]}";14103.0;;La Raza_1_3;Metro L√≠nea 5 correspondencia con l√≠nea 3.;19.468965;-99.136176;Pantitl√°n - Polit√©cnico;METRO;19.468965,-99.136176
-"{""type"": ""Point"", ""coordinates"": [-99.12227869, 19.40894369]}";14144.0;;Jamaica;Metro L√≠nea 9 correspondencia con l√≠nea 4.;19.40894369;-99.12227869;Tacubaya - Pantitl√°n;METRO;19.40894369,-99.12227869
-"{""type"": ""Point"", ""coordinates"": [-99.15455103, 19.42565962]}";14096.0;;Cuauht√©moc_1_2;Metro 1;19.42565962;-99.15455103;Observatorio - Pantitl√°n;METRO;19.42565962,-99.15455103
-"{""type"": ""Point"", ""coordinates"": [-99.173702, 19.49039233]}";14133.0;;Ferrer√≠a;Metro 6;19.49039233;-99.173702;Mart√≠n Carrera - El Rosario;METRO;19.49039233,-99.173702
-"{""type"": ""Point"", ""coordinates"": [-99.14263129, 19.36186271]}";14086.0;;Ermita;Metro 2;19.36186271;-99.14263129;Cuatro Caminos - Tasque√±a;METRO;19.36186271,-99.14263129
-"{""type"": ""Point"", ""coordinates"": [-99.18803573, 19.45913691]}";14112.0;;Tacuba_1;Metro L√≠nea 2 correspondencia con l√≠nea 7.;19.45913691;-99.18803573;Cuatro Caminos - Tasque√±a;METRO;19.45913691,-99.18803573
-"{""type"": ""Point"", ""coordinates"": [-99.14105415, 19.34400644]}";14090.0;;Tasque√±a;Metro 2;19.34400644;-99.14105415;Cuatro Caminos - Tasque√±a;METRO;19.34400644,-99.14105415
-"{""type"": ""Point"", ""coordinates"": [-99.10283804, 19.40811392]}";14176.0;;Vel√≥dromo;Metro 9;19.40811392;-99.10283804;Tacubaya - Pantitl√°n;METRO;19.40811392,-99.10283804
-"{""type"": ""Point"", ""coordinates"": [-99.13758874, 19.3950293]}";14057.0;;Xola_1;Metro 2;19.3950293;-99.13758874;Cuatro Caminos - Tasque√±a;METRO;19.3950293,-99.13758874
-"{""type"": ""Point"", ""coordinates"": [-99.063367, 19.345135]}";14202.0;;Constituci√≥n de 1917;Metro 8;19.345135;-99.063367;Garibaldi - Constituci√≥n de 1917;METRO;19.345135,-99.063367
-"{""type"": ""Point"", ""coordinates"": [-99.06982541, 19.40404596]}";14070.0;;Agr√≠cola Oriental;Metro A;19.40404596;-99.06982541;La Paz - Pantitl√°n;METRO;19.40404596,-99.06982541
-"{""type"": ""Point"", ""coordinates"": [-99.15133238, 19.36118453]}";14239.0;;Eje Central_1_3;Metro 12;19.36118453;-99.15133238;Tl√°huac - Mixcoac;METRO;19.36118453,-99.15133238
-"{""type"": ""Point"", ""coordinates"": [-99.17657733, 19.33597857]}";14075.0;;Copilco;Metro 3;19.33597857;-99.17657733;Indios Verdes - Universidad;METRO;19.33597857,-99.17657733
-"{""type"": ""Point"", ""coordinates"": [-99.10779476, 19.47415847]}";14101.0;;Talism√°n_1_2;Metro 4;19.47415847;-99.10779476;Mart√≠n Carrera - Santa Anita;METRO;19.47415847,-99.10779476
-"{""type"": ""Point"", ""coordinates"": [-99.131748, 19.476413]}";14192.0;;Potrero_1_2;Metro 3;19.476413;-99.131748;Indios Verdes - Universidad;METRO;19.476413,-99.131748
-"{""type"": ""Point"", ""coordinates"": [-99.14638638, 19.49054404]}";42489.0;;Instituto del Petroleo;Metro L√≠nea 6 correspondencia con l√≠nea 5.;19.49054404;-99.14638638;Mart√≠n Carrera - El Rosario;METRO;19.49054404,-99.14638638
-"{""type"": ""Point"", ""coordinates"": [-99.1531992, 19.41369961]}";14152.0;;Hospital General_1;Metro 3;19.41369961;-99.1531992;Indios Verdes - Universidad;METRO;19.41369961,-99.1531992
-"{""type"": ""Point"", ""coordinates"": [-99.14478779, 19.35319801]}";14089.0;;General Anaya;Metro 2;19.35319801;-99.14478779;Cuatro Caminos - Tasque√±a;METRO;19.35319801,-99.14478779
-"{""type"": ""Point"", ""coordinates"": [-99.17099833, 19.37192372]}";14241.0;;Hospital 20 de Nov.;Metro 12;19.37192372;-99.17099833;Tl√°huac - Mixcoac;METRO;19.37192372,-99.17099833
-"{""type"": ""Point"", ""coordinates"": [-99.07434225, 19.41616858]}";14216.0;;Pantitl√°n_1_2;Metro L√≠nea 1 correspondencia con l√≠neas 5 9 y A.;19.41616858;-99.07434225;Observatorio - Pantitl√°n;METRO;19.41616858,-99.07434225
-"{""type"": ""Point"", ""coordinates"": [-99.13987398, 19.37938304]}";14093.0;;Nativitas;Metro 2;19.37938304;-99.13987398;Cuatro Caminos - Tasque√±a;METRO;19.37938304,-99.13987398
-"{""type"": ""Point"", ""coordinates"": [-99.11988616, 19.45868169]}";14140.0;;Valle G√≥mez;Metro 5;19.45868169;-99.11988616;Pantitl√°n - Polit√©cnico;METRO;19.45868169,-99.11988616
-"{""type"": ""Point"", ""coordinates"": [-99.18053627, 19.34651696]}";14082.0;;Miguel √Ångel de Quevedo;Metro 3;19.34651696;-99.18053627;Indios Verdes - Universidad;METRO;19.34651696,-99.18053627
-"{""type"": ""Point"", ""coordinates"": [-99.15023804, 19.41946724]}";14151.0;;Ni√±os H√©roes_1;Metro 3;19.41946724;-99.15023804;Indios Verdes - Universidad;METRO;19.41946724,-99.15023804
-"{""type"": ""Point"", ""coordinates"": [-99.13107634, 19.44300109]}";14171.0;;Lagunilla;Metro B;19.44300109;-99.13107634;Buenavista - Ciudad Azteca;METRO;19.44300109,-99.13107634
-"{""type"": ""Point"", ""coordinates"": [-99.12191391, 19.35744944]}";14238.0;;Mexicaltzingo;Metro 12;19.35744944;-99.12191391;Tl√°huac - Mixcoac;METRO;19.35744944,-99.12191391
-"{""type"": ""Point"", ""coordinates"": [-99.148806, 19.499964]}";14188.0;;Polit√©cnico;Metro 5;19.499964;-99.148806;Pantitl√°n - Polit√©cnico;METRO;19.499964,-99.148806
-"{""type"": ""Point"", ""coordinates"": [-99.19160843, 19.44553033]}";14113.0;;San Joaqu√≠n;Metro 7;19.44553033;-99.19160843;Barranca del Muerto - El Rosario;METRO;19.44553033,-99.19160843
-"{""type"": ""Point"", ""coordinates"": [-99.04651165, 19.39072824]}";14200.0;;Tepalcates_1;Metro A;19.39072824;-99.04651165;La Paz - Pantitl√°n;METRO;19.39072824,-99.04651165
-"{""type"": ""Point"", ""coordinates"": [-99.131879, 19.432602]}";14136.0;;Z√≥calo;Metro 2;19.432602;-99.131879;Cuatro Caminos - Tasque√±a;METRO;19.432602,-99.131879
-"{""type"": ""Point"", ""coordinates"": [-99.14455175, 19.489836060000002]}";14194.0;;Instituto del Petr√≥leo_1;Metro L√≠nea 6 correspondencia con l√≠nea 5.;19.489836060000002;-99.14455175;Pantitl√°n - Polit√©cnico;METRO;19.48983606,-99.14455175
-"{""type"": ""Point"", ""coordinates"": [-99.14681554, 19.43674867]}";14168.0;;Hidalgo_1_3;Metro L√≠nea 3 correspondencia con l√≠nea 2.;19.43674867;-99.14681554;Indios Verdes - Universidad;METRO;19.43674867,-99.14681554
-"{""type"": ""Point"", ""coordinates"": [-99.112086, 19.388092]}";14094.0;;Iztacalco_1;Metro 8;19.388092;-99.112086;Garibaldi - Constituci√≥n de 1917;METRO;19.388092,-99.112086
-"{""type"": ""Point"", ""coordinates"": [-99.048743, 19.484987]}";14223.0;;Impulsora;Metro B;19.484987;-99.048743;Buenavista - Ciudad Azteca;METRO;19.484987,-99.048743
-"{""type"": ""Point"", ""coordinates"": [-99.11989689, 19.42909974]}";14134.0;;Candelaria;Metro L√≠nea 1 correspondencia con l√≠nea 4.;19.42909974;-99.11989689;Observatorio - Pantitl√°n;METRO;19.42909974,-99.11989689
-"{""type"": ""Point"", ""coordinates"": [-99.18895841, 19.3614882]}";14080.0;;Barranca del Muerto;Metro 7;19.3614882;-99.18895841;Barranca del Muerto - El Rosario;METRO;19.3614882,-99.18895841
-"{""type"": ""Point"", ""coordinates"": [-99.12543297, 19.4840507]}";14187.0;;Deportivo 18 de Marzo_1_3;Metro L√≠nea 3 correspondencia con l√≠nea 6.;19.4840507;-99.12543297;Indios Verdes - Universidad;METRO;19.4840507,-99.12543297
-"{""type"": ""Point"", ""coordinates"": [-99.13542151, 19.40891333]}";14159.0;;Chabacano_1_2;Metro L√≠nea 2 correspondencia con l√≠nea 8 y l√≠nea 9.;19.40891333;-99.13542151;Cuatro Caminos - Tasque√±a;METRO;19.40891333,-99.13542151
-"{""type"": ""Point"", ""coordinates"": [-99.11348104, 19.455485]}";15154.0;;Consulado_1;Metro L√≠nea 5 correspondencia con l√≠nea 4.;19.455485;-99.11348104;Pantitl√°n - Polit√©cnico;METRO;19.455485,-99.11348104
-"{""type"": ""Point"", ""coordinates"": [-99.06927824, 19.45807473]}";14219.0;;Bosque de Arag√≥n;Metro B;19.45807473;-99.06927824;Buenavista - Ciudad Azteca;METRO;19.45807473,-99.06927824
-"{""type"": ""Point"", ""coordinates"": [-99.13670897, 19.43547387]}";14163.0;;Allende;Metro 2;19.43547387;-99.13670897;Cuatro Caminos - Tasque√±a;METRO;19.43547387,-99.13670897
-"{""type"": ""Point"", ""coordinates"": [-99.13268566, 19.42595305]}";14161.0;;Pino Su√°rez_1_2;Metro L√≠nea 1 correspondencia con l√≠nea 2.;19.42595305;-99.13268566;Observatorio - Pantitl√°n;METRO;19.42595305,-99.13268566
-"{""type"": ""Point"", ""coordinates"": [-99.13862944, 19.38746949]}";14092.0;;Villa de Cort√©s;Metro 2;19.38746949;-99.13862944;Cuatro Caminos - Tasque√±a;METRO;19.38746949,-99.13862944
-"{""type"": ""Point"", ""coordinates"": [-99.13663387, 19.400746990000002]}";14056.0;;Viaducto_1;Metro 2;19.400746990000002;-99.13663387;Cuatro Caminos - Tasque√±a;METRO;19.40074699,-99.13663387
-"{""type"": ""Point"", ""coordinates"": [-99.15479779, 19.49031142]}";14106.0;;Vallejo;Metro 6;19.49031142;-99.15479779;Mart√≠n Carrera - El Rosario;METRO;19.49031142,-99.15479779
-"{""type"": ""Point"", ""coordinates"": [-99.11790133, 19.43973327]}";14182.0;;Morelos_1_3;Metro L√≠nea 4 correspondencia con l√≠nea B.;19.43973327;-99.11790133;Mart√≠n Carrera - Santa Anita;METRO;19.43973327,-99.11790133
-"{""type"": ""Point"", ""coordinates"": [-99.12203193, 19.41014786]}";14175.0;;Jamaica_1;Metro L√≠nea 4 correspondencia con l√≠nea 9.;19.41014786;-99.12203193;Mart√≠n Carrera - Santa Anita;METRO;19.41014786,-99.12203193
-"{""type"": ""Point"", ""coordinates"": [-99.1463542, 19.44522682]}";14166.0;;Guerrero_1_4;Metro L√≠nea B correspondencia con l√≠nea 3.;19.44522682;-99.1463542;Buenavista - Ciudad Azteca;METRO;19.44522682,-99.1463542
-"{""type"": ""Point"", ""coordinates"": [-99.08683062, 19.44572255]}";14072.0;;Ocean√≠a_1;Metro L√≠nea B correspondencia con l√≠nea 5.;19.44572255;-99.08683062;Buenavista - Ciudad Azteca;METRO;19.44572255,-99.08683062
-"{""type"": ""Point"", ""coordinates"": [-99.14335012, 19.42049932]}";14153.0;;Doctores;Metro 8;19.42049932;-99.14335012;Garibaldi - Constituci√≥n de 1917;METRO;19.42049932,-99.14335012
-"{""type"": ""Point"", ""coordinates"": [-99.11285877, 19.40820499]}";14177.0;;Mixhuca;Metro 9;19.40820499;-99.11285877;Tacubaya - Pantitl√°n;METRO;19.40820499,-99.11285877
-"{""type"": ""Point"", ""coordinates"": [-98.97670984, 19.35877546]}";14206.0;;Los Reyes;Metro A;19.35877546;-98.97670984;La Paz - Pantitl√°n;METRO;19.35877546,-98.97670984
-"{""type"": ""Point"", ""coordinates"": [-99.16540861, 19.3705472]}";42432.0;;Zapata_1;Metro L√≠nea 12 correspondencia con l√≠nea 3.;19.3705472;-99.16540861;Tl√°huac - Mixcoac;METRO;19.3705472,-99.16540861
-"{""type"": ""Point"", ""coordinates"": [-99.15531278, 19.40749665]}";14058.0;;Centro M√©dico_1;Metro L√≠nea 3 correspondencia con l√≠nea 9.;19.40749665;-99.15531278;Indios Verdes - Universidad;METRO;19.40749665,-99.15531278
-"{""type"": ""Point"", ""coordinates"": [-99.085872, 19.355601]}";14203.0;;Cerro de la Estrella;Metro 8;19.355601;-99.085872;Garibaldi - Constituci√≥n de 1917;METRO;19.355601,-99.085872
-"{""type"": ""Point"", ""coordinates"": [-99.1117537, 19.46450842]}";14102.0;;Bondojito_1;Metro 4;19.46450842;-99.1117537;Mart√≠n Carrera - Santa Anita;METRO;19.46450842,-99.1117537
-"{""type"": ""Point"", ""coordinates"": [-99.05969739, 19.39821706]}";14071.0;;Canal de San Juan_1_3;Metro A;19.39821706;-99.05969739;La Paz - Pantitl√°n;METRO;19.39821706,-99.05969739
-"{""type"": ""Point"", ""coordinates"": [-99.07505035, 19.41528826]}";14214.0;;Pantitl√°n;Metro L√≠nea 5 correspondencia con l√≠neas 1 9 y A.;19.41528826;-99.07505035;Pantitl√°n - Polit√©cnico;METRO;19.41528826,-99.07505035
-"{""type"": ""Point"", ""coordinates"": [-99.10259128, 19.3272315]}";14236.0;;San Andr√©s Tomatl√°n;Metro 12;19.3272315;-99.10259128;Tl√°huac - Mixcoac;METRO;19.3272315,-99.10259128
-"{""type"": ""Point"", ""coordinates"": [-99.135489, 19.408513]}";14145.0;;Chabacano;Metro L√≠nea 9 correspondencia con l√≠nea 2 y l√≠nea 8.;19.408513;-99.135489;Tacubaya - Pantitl√°n;METRO;19.408513,-99.135489
-"{""type"": ""Point"", ""coordinates"": [-99.10544515, 19.45112485]}";14184.0;;Eduardo Molina_1;Metro 5;19.45112485;-99.10544515;Pantitl√°n - Polit√©cnico;METRO;19.45112485,-99.10544515
-"{""type"": ""Point"", ""coordinates"": [-99.09135818, 19.40811392]}";14069.0;;Ciudad Deportiva;Metro 9;19.40811392;-99.09135818;Tacubaya - Pantitl√°n;METRO;19.40811392,-99.09135818
-"{""type"": ""Point"", ""coordinates"": [-99.214643, 19.458454]}";14117.0;;Cuatro Caminos;Metro 2;19.458454;-99.214643;Cuatro Caminos - Tasque√±a;METRO;19.458454,-99.214643
-"{""type"": ""Point"", ""coordinates"": [-99.03579354, 19.38459525]}";14198.0;;Guelatao;Metro A;19.38459525;-99.03579354;La Paz - Pantitl√°n;METRO;19.38459525,-99.03579354
-"{""type"": ""Point"", ""coordinates"": [-99.10599232, 19.4837675]}";14196.0;;Mart√≠n Carrera_1;Metro L√≠nea 4 correspondencia con l√≠nea 6.;19.4837675;-99.10599232;Mart√≠n Carrera - Santa Anita;METRO;19.4837675,-99.10599232
-"{""type"": ""Point"", ""coordinates"": [-99.11933, 19.438426]}";14051.0;;Morelos_1_2;Metro L√≠nea B correspondencia con l√≠nea 4.;19.438426;-99.11933;Buenavista - Ciudad Azteca;METRO;19.438426,-99.11933
-"{""type"": ""Point"", ""coordinates"": [-99.16325212, 19.42359552]}";14097.0;;Insurgentes_1_5;Metro 1;19.42359552;-99.16325212;Observatorio - Pantitl√°n;METRO;19.42359552,-99.16325212
-"{""type"": ""Point"", ""coordinates"": [-99.13434863, 19.4875806]}";14195.0;;Lindavista;Metro 6;19.4875806;-99.13434863;Mart√≠n Carrera - El Rosario;METRO;19.4875806,-99.13434863
-"{""type"": ""Point"", ""coordinates"": [-99.054375, 19.472534]}";14210.0;;Nezahualc√≥yotl;Metro B;19.472534;-99.054375;Buenavista - Ciudad Azteca;METRO;19.472534,-99.054375
-"{""type"": ""Point"", ""coordinates"": [-99.109803, 19.426271]}";14173.0;;Moctezuma_1;Metro 1;19.426271;-99.109803;Observatorio - Pantitl√°n;METRO;19.426271,-99.109803
-"{""type"": ""Point"", ""coordinates"": [-99.14155841, 19.43595951]}";14162.0;;Bellas Artes_1_2;Metro L√≠nea 2 correspondencia con l√≠nea 8.;19.43595951;-99.14155841;Cuatro Caminos - Tasque√±a;METRO;19.43595951,-99.14155841
-"{""type"": ""Point"", ""coordinates"": [-99.11589503, 19.44866652]}";14181.0;;Canal del Norte_1;Metro 4;19.44866652;-99.11589503;Mart√≠n Carrera - Santa Anita;METRO;19.44866652,-99.11589503
-"{""type"": ""Point"", ""coordinates"": [-99.15289879, 19.44615757]}";14170.0;;Buenavista_1_4;Metro B;19.44615757;-99.15289879;Buenavista - Ciudad Azteca;METRO;19.44615757,-99.15289879
-"{""type"": ""Point"", ""coordinates"": [-99.10554171, 19.48231101]}";14197.0;;Mart√≠n Carrera_1_2;Metro L√≠nea 6 correspondencia con l√≠nea 4.;19.48231101;-99.10554171;Mart√≠n Carrera - El Rosario;METRO;19.48231101,-99.10554171
-"{""type"": ""Point"", ""coordinates"": [-99.07262564, 19.4146103]}";14215.0;;Pantitl√°n_1;Metro L√≠nea A correspondencia con l√≠neas 1 5 y 9.;19.4146103;-99.07262564;La Paz - Pantitl√°n;METRO;19.4146103,-99.07262564
-"{""type"": ""Point"", ""coordinates"": [-99.14130092, 19.36976784]}";14085.0;;Portales;Metro 2;19.36976784;-99.14130092;Cuatro Caminos - Tasque√±a;METRO;19.36976784,-99.14130092
-"{""type"": ""Point"", ""coordinates"": [-99.04171586, 19.50096117]}";14221.0;;M√∫zquiz;Metro B;19.50096117;-99.04171586;Buenavista - Ciudad Azteca;METRO;19.50096117,-99.04171586
-"{""type"": ""Point"", ""coordinates"": [-99.04621124, 19.29939771]}";14230.0;;Nopalera;Metro 12;19.29939771;-99.04621124;Tl√°huac - Mixcoac;METRO;19.29939771,-99.04621124
-"{""type"": ""Point"", ""coordinates"": [-99.19138312, 19.41129131]}";14116.0;;Constituyentes_1_2;Metro 7;19.41129131;-99.19138312;Barranca del Muerto - El Rosario;METRO;19.41129131,-99.19138312
-"{""type"": ""Point"", ""coordinates"": [-99.087095, 19.423251]}";14213.0;;Hangares;Metro 5;19.423251;-99.087095;Pantitl√°n - Polit√©cnico;METRO;19.423251,-99.087095
-"{""type"": ""Point"", ""coordinates"": [-99.12120581, 19.40425847]}";14178.0;;Santa Anita_1;Metro L√≠nea 4 correspondencia con l√≠neas 8.;19.40425847;-99.12120581;Mart√≠n Carrera - Santa Anita;METRO;19.40425847,-99.12120581
-"{""type"": ""Point"", ""coordinates"": [-99.19593215, 19.49448847]}";14128.0;;Tezoz√≥moc;Metro 6;19.49448847;-99.19593215;Mart√≠n Carrera - El Rosario;METRO;19.49448847,-99.19593215
-"{""type"": ""Point"", ""coordinates"": [-99.12576556, 19.48358544]}";14190.0;;Deportivo 18 de Marzo_1_4;Metro L√≠nea 6 correspondencia con l√≠nea 3.;19.48358544;-99.12576556;Mart√≠n Carrera - El Rosario;METRO;19.48358544,-99.12576556
-"{""type"": ""Point"", ""coordinates"": [-99.10632491, 19.35264126]}";42427.0;;Atlalilco_1;Metro L√≠nea 12 correspondencia con l√≠nea 8.;19.35264126;-99.10632491;Tl√°huac - Mixcoac;METRO;19.35264126,-99.10632491
-"{""type"": ""Point"", ""coordinates"": [-99.10894275, 19.33887391]}";14237.0;;Culhuac√°n;Metro 12;19.33887391;-99.10894275;Tl√°huac - Mixcoac;METRO;19.33887391,-99.10894275
-"{""type"": ""Point"", ""coordinates"": [-99.18823957, 19.40213338]}";14054.0;;Tacubaya_1;Metro L√≠nea 1 correspondencia con l√≠nea 7 y l√≠nea 9.;19.40213338;-99.18823957;Observatorio - Pantitl√°n;METRO;19.40213338,-99.18823957
-"{""type"": ""Point"", ""coordinates"": [-99.12136674, 19.40397512]}";14064.0;;Santa Anita;Metro L√≠nea 8 correspondencia con l√≠nea 4.;19.40397512;-99.12136674;Garibaldi - Constituci√≥n de 1917;METRO;19.40397512,-99.12136674
-"{""type"": ""Point"", ""coordinates"": [-99.188501, 19.458383]}";14108.0;;Tacuba;Metro L√≠nea 7 correspondencia con l√≠nea 2.;19.458383;-99.188501;Barranca del Muerto - El Rosario;METRO;19.458383,-99.188501
-"{""type"": ""Point"", ""coordinates"": [-99.04635072, 19.49024062]}";14222.0;;R√≠o de los Remedios_1;Metro B;19.49024062;-99.04635072;Buenavista - Ciudad Azteca;METRO;19.49024062,-99.04635072
-"{""type"": ""Point"", ""coordinates"": [-99.11815882, 19.4814715]}";14191.0;;La Villa - Bas√≠lica;Metro 6;19.4814715;-99.11815882;Mart√≠n Carrera - El Rosario;METRO;19.4814715,-99.11815882
-"{""type"": ""Point"", ""coordinates"": [-99.18207049, 19.41290022]}";14120.0;;Juanacatl√°n;Metro 1;19.41290022;-99.18207049;Observatorio - Pantitl√°n;METRO;19.41290022,-99.18207049
-"{""type"": ""Point"", ""coordinates"": [-99.065867, 19.306124]}";14232.0;;Tezonco;Metro 12;19.306124;-99.065867;Tl√°huac - Mixcoac;METRO;19.306124,-99.065867
-"{""type"": ""Point"", ""coordinates"": [-99.03298259, 19.52084286]}";14224.0;;Ol√≠mpica;Metro B;19.52084286;-99.03298259;Buenavista - Ciudad Azteca;METRO;19.52084286,-99.03298259
-"{""type"": ""Point"", ""coordinates"": [-99.18661952, 19.38481791]}";14084.0;;San Antonio;Metro 7;19.38481791;-99.18661952;Barranca del Muerto - El Rosario;METRO;19.38481791,-99.18661952
-"{""type"": ""Point"", ""coordinates"": [-99.17407751, 19.32433595]}";14076.0;;Universidad;Metro 3;19.32433595;-99.17407751;Indios Verdes - Universidad;METRO;19.32433595,-99.17407751
-"{""type"": ""Point"", ""coordinates"": [-99.15617108, 19.39604129]}";14059.0;;Etiop√≠a / Plaza de la Transpatencia;Metro 3;19.39604129;-99.15617108;Indios Verdes - Universidad;METRO;19.39604129,-99.15617108
-"{""type"": ""Point"", ""coordinates"": [-99.10931826, 19.36449442]}";14088.0;;Escuadr√≥n 201;Metro 8;19.36449442;-99.10931826;Garibaldi - Constituci√≥n de 1917;METRO;19.36449442,-99.10931826
-"{""type"": ""Point"", ""coordinates"": [-99.07917023, 19.45077077]}";14220.0;;Deportivo Ocean√≠a;Metro B;19.45077077;-99.07917023;Buenavista - Ciudad Azteca;METRO;19.45077077,-99.07917023
-"{""type"": ""Point"", ""coordinates"": [-99.09070373, 19.41608763]}";14052.0;;G√≥mez Far√≠as;Metro 1;19.41608763;-99.09070373;Observatorio - Pantitl√°n;METRO;19.41608763,-99.09070373
-"{""type"": ""Point"", ""coordinates"": [-99.14771676, 19.43336942]}";14138.0;;Ju√°rez_1_3;Metro 3;19.43336942;-99.14771676;Indios Verdes - Universidad;METRO;19.43336942,-99.14771676
-"{""type"": ""Point"", ""coordinates"": [-99.13574338, 19.40853892]}";14155.0;;Chabacano_1;Metro L√≠nea 8 correspondencia con l√≠nea 2 y l√≠nea 9.;19.40853892;-99.13574338;Garibaldi - Constituci√≥n de 1917;METRO;19.40853892,-99.13574338
-"{""type"": ""Point"", ""coordinates"": [-99.09606814, 19.41958866]}";14053.0;;Blvd. Puerto A√©reo;Metro 1;19.41958866;-99.09606814;Observatorio - Pantitl√°n;METRO;19.41958866,-99.09606814
-"{""type"": ""Point"", ""coordinates"": [-99.1683054, 19.40575613]}";14110.0;;Chilpancingo_1_2;Metro 9;19.40575613;-99.1683054;Tacubaya - Pantitl√°n;METRO;19.40575613,-99.1683054
-"{""type"": ""Point"", ""coordinates"": [-99.15504456, 19.40636329]}";14109.0;;Centro M√©dico_1_2;Metro L√≠nea 9 correspondencia con l√≠nea 3.;19.40636329;-99.15504456;Tacubaya - Pantitl√°n;METRO;19.40636329,-99.15504456
-"{""type"": ""Point"", ""coordinates"": [-99.11388874, 19.45682033]}";14185.0;;Consulado;Metro L√≠nea 4 correspondencia con l√≠nea 5.;19.45682033;-99.11388874;Mart√≠n Carrera - Santa Anita;METRO;19.45682033,-99.11388874
-"{""type"": ""Point"", ""coordinates"": [-99.18621182, 19.49067553]}";14129.0;;Azcapotzalco_1;Metro 6;19.49067553;-99.18621182;Mart√≠n Carrera - El Rosario;METRO;19.49067553,-99.18621182
-"{""type"": ""Point"", ""coordinates"": [-99.14116144, 19.43098165]}";14142.0;;San Juan de Letr√°n;Metro 8;19.43098165;-99.14116144;Garibaldi - Constituci√≥n de 1917;METRO;19.43098165,-99.14116144
-"{""type"": ""Point"", ""coordinates"": [-99.18985963, 19.46911098]}";14107.0;;Refiner√≠a;Metro 7;19.46911098;-99.18985963;Barranca del Muerto - El Rosario;METRO;19.46911098,-99.18985963
-"{""type"": ""Point"", ""coordinates"": [-99.072516, 19.414885]}";14226.0;;Pantitl√°n_1_3;Metro L√≠nea 9 correspondencia con l√≠neas 1 5 y A.;19.414885;-99.072516;Tacubaya - Pantitl√°n;METRO;19.414885,-99.072516
-"{""type"": ""Point"", ""coordinates"": [-99.17542934, 19.35376487]}";14081.0;;Viveros;Metro 3;19.35376487;-99.17542934;Indios Verdes - Universidad;METRO;19.35376487,-99.17542934
-"{""type"": ""Point"", ""coordinates"": [-99.14912224, 19.42729875]}";14157.0;;Balderas_1_2;Metro L√≠nea 1 correspondencia con l√≠nea 3.;19.42729875;-99.14912224;Observatorio - Pantitl√°n;METRO;19.42729875,-99.14912224
-"{""type"": ""Point"", ""coordinates"": [-99.1488111, 19.42692438]}";14139.0;;Balderas_1;Metro L√≠nea 3 correspondencia con l√≠nea 1.;19.42692438;-99.1488111;Indios Verdes - Universidad;METRO;19.42692438,-99.1488111
-"{""type"": ""Point"", ""coordinates"": [-99.140471, 19.478595]}";14193.0;;Autobuses del Norte;Metro 5;19.478595;-99.140471;Pantitl√°n - Polit√©cnico;METRO;19.478595,-99.140471
-"{""type"": ""Point"", ""coordinates"": [-99.00597811, 19.3642515]}";14204.0;;Acatitla;Metro A;19.3642515;-99.00597811;La Paz - Pantitl√°n;METRO;19.3642515,-99.00597811
-"{""type"": ""Point"", ""coordinates"": [-99.14207339, 19.42720768]}";14158.0;;Salto del Agua;Metro L√≠nea 8 correspondencia con l√≠nea 1.;19.42720768;-99.14207339;Garibaldi - Constituci√≥n de 1917;METRO;19.42720768,-99.14207339
-"{""type"": ""Point"", ""coordinates"": [-99.19079304, 19.43337954]}";14114.0;;Polanco;Metro 7;19.43337954;-99.19079304;Barranca del Muerto - El Rosario;METRO;19.43337954,-99.19079304
-"{""type"": ""Point"", ""coordinates"": [-99.16249037, 19.48823803]}";14105.0;;Norte 45_1;Metro 6;19.48823803;-99.16249037;Mart√≠n Carrera - El Rosario;METRO;19.48823803,-99.16249037
-"{""type"": ""Point"", ""coordinates"": [-99.20294, 19.458219]}";14111.0;;Panteones;Metro 2;19.458219;-99.20294;Cuatro Caminos - Tasque√±a;METRO;19.458219,-99.20294
-"{""type"": ""Point"", ""coordinates"": [-99.181555, 19.45668]}";14125.0;;Cuitl√°huac_1_4;Metro 2;19.45668;-99.181555;Cuatro Caminos - Tasque√±a;METRO;19.45668,-99.181555
-"{""type"": ""Point"", ""coordinates"": [-99.113413, 19.39769]}";14065.0;;Coyuya_1;Metro 8;19.39769;-99.113413;Garibaldi - Constituci√≥n de 1917;METRO;19.39769,-99.113413
-"{""type"": ""Point"", ""coordinates"": [-99.17056918, 19.36142746]}";14078.0;;Coyoac√°n;Metro 3;19.36142746;-99.17056918;Indios Verdes - Universidad;METRO;19.36142746,-99.17056918
-"{""type"": ""Point"", ""coordinates"": [-99.13904786, 19.46907052]}";14099.0;;La Raza_1_2;Metro L√≠nea 3 correspondencia con l√≠nea 5.;19.46907052;-99.13904786;Indios Verdes - Universidad;METRO;19.46907052,-99.13904786
-"{""type"": ""Point"", ""coordinates"": [-99.13429499, 19.4159055]}";14160.0;;San Antonio Abad;Metro 2;19.4159055;-99.13429499;Cuatro Caminos - Tasque√±a;METRO;19.4159055,-99.13429499
-"{""type"": ""Point"", ""coordinates"": [-99.08322573, 19.41179726]}";14217.0;;Zaragoza;Metro 1;19.41179726;-99.08322573;Observatorio - Pantitl√°n;METRO;19.41179726,-99.08322573
-"{""type"": ""Point"", ""coordinates"": [-99.10281658, 19.42288725]}";14172.0;;Balbuena;Metro 1;19.42288725;-99.10281658;Observatorio - Pantitl√°n;METRO;19.42288725,-99.10281658
-"{""type"": ""Point"", ""coordinates"": [-99.09598231, 19.45101356]}";14060.0;;Arag√≥n;Metro 5;19.45101356;-99.09598231;Pantitl√°n - Polit√©cnico;METRO;19.45101356,-99.09598231
-"{""type"": ""Point"", ""coordinates"": [-99.18774605, 19.37625563]}";14079.0;;Mixcoac_1;Metro L√≠nea 7 correspondencia con l√≠nea 12.;19.37625563;-99.18774605;Tl√°huac - Mixcoac;METRO;19.37625563,-99.18774605
-"{""type"": ""Point"", ""coordinates"": [-99.09420133, 19.44048194]}";14073.0;;Romero Rubio;Metro B;19.44048194;-99.09420133;Buenavista - Ciudad Azteca;METRO;19.44048194,-99.09420133
-"{""type"": ""Point"", ""coordinates"": [-99.19948339, 19.50522896]}";14127.0;;El Rosario_1;Metro L√≠nea 6 correspondencia con l√≠nea 7.;19.50522896;-99.19948339;Mart√≠n Carrera - El Rosario;METRO;19.50522896,-99.19948339
-"{""type"": ""Point"", ""coordinates"": [-99.139034, 19.443082]}";14169.0;;Garibaldi_1;Metro L√≠nea 8 correspondencia con l√≠nea B.;19.443082;-99.139034;Garibaldi - Constituci√≥n de 1917;METRO;19.443082,-99.139034
-"{""type"": ""Point"", ""coordinates"": [-99.14433718, 19.40702104]}";14156.0;;L√°zaro C√°rdenas;Metro 9;19.40702104;-99.14433718;Tacubaya - Pantitl√°n;METRO;19.40702104,-99.14433718
-"{""type"": ""Point"", ""coordinates"": [-99.06114578, 19.4613523]}";14211.0;;Villa de Arag√≥n;Metro B;19.4613523;-99.06114578;Buenavista - Ciudad Azteca;METRO;19.4613523,-99.06114578
-"{""type"": ""Point"", ""coordinates"": [-99.03568625, 19.51470467]}";14225.0;;Tecnol√≥gico;Metro B;19.51470467;-99.03568625;Buenavista - Ciudad Azteca;METRO;19.51470467,-99.03568625
-"{""type"": ""Point"", ""coordinates"": [-99.16094542, 19.44185787]}";14098.0;;San Cosme;Metro 2;19.44185787;-99.16094542;Cuatro Caminos - Tasque√±a;METRO;19.44185787,-99.16094542
-"{""type"": ""Point"", ""coordinates"": [-99.074808, 19.350327]}";14201.0;;UAM-I;Metro 8;19.350327;-99.074808;Garibaldi - Constituci√≥n de 1917;METRO;19.350327,-99.074808
-"{""type"": ""Point"", ""coordinates"": [-98.995894, 19.359804]}";14205.0;;Santa Marta;Metro A;19.359804;-98.995894;La Paz - Pantitl√°n;METRO;19.359804,-98.995894
-"{""type"": ""Point"", ""coordinates"": [-99.19173717, 19.42530549]}";14115.0;;Auditorio;Metro 7;19.42530549;-99.19173717;Barranca del Muerto - El Rosario;METRO;19.42530549,-99.19173717
-"{""type"": ""Point"", ""coordinates"": [-99.10739779, 19.37292574]}";14087.0;;Aculco;Metro 8;19.37292574;-99.10739779;Garibaldi - Constituci√≥n de 1917;METRO;19.37292574,-99.10739779
-"{""type"": ""Point"", ""coordinates"": [-99.13303971, 19.42543703]}";14137.0;;Pino Su√°rez_1;Metro L√≠nea 2 correspondencia con l√≠nea 1.;19.42543703;-99.13303971;Cuatro Caminos - Tasque√±a;METRO;19.42543703,-99.13303971
-"{""type"": ""Point"", ""coordinates"": [-99.08820391, 19.43380448]}";14212.0;;Terminal A√©rea;Metro 5;19.43380448;-99.08820391;Pantitl√°n - Polit√©cnico;METRO;19.43380448,-99.08820391
-"{""type"": ""Point"", ""coordinates"": [-99.17074084, 19.42189565]}";14118.0;;Sevilla;Metro 1;19.42189565;-99.17074084;Observatorio - Pantitl√°n;METRO;19.42189565,-99.17074084
-"{""type"": ""Point"", ""coordinates"": [-99.12323356, 19.44256606]}";14148.0;;Tepito;Metro B;19.44256606;-99.12323356;Buenavista - Ciudad Azteca;METRO;19.44256606,-99.12323356
-"{""type"": ""Point"", ""coordinates"": [-99.20029879, 19.5039547]}";14130.0;;El Rosario_1_2;Metro L√≠nea 7 correspondencia con l√≠nea 6.;19.5039547;-99.20029879;Barranca del Muerto - El Rosario;METRO;19.5039547,-99.20029879
-"{""type"": ""Point"", ""coordinates"": [-99.14501309, 19.44475133]}";14164.0;;Guerrero_1_3;Metro L√≠nea 3 correspondencia con l√≠nea B.;19.44475133;-99.14501309;Indios Verdes - Universidad;METRO;19.44475133,-99.14501309
-"{""type"": ""Point"", ""coordinates"": [-99.12033677, 19.42149092]}";14174.0;;Fray Servando;Metro 4;19.42149092;-99.12033677;Mart√≠n Carrera - Santa Anita;METRO;19.42149092,-99.12033677
-"{""type"": ""Point"", ""coordinates"": [-99.119141, 19.495315]}";14186.0;;Indios Verdes_1;Metro 3;19.495315;-99.119141;Indios Verdes - Universidad;METRO;19.495315,-99.119141
-"{""type"": ""Point"", ""coordinates"": [-99.1448307, 19.36030391]}";42430.0;;Ermita_1;Metro L√≠nea 12;19.36030391;-99.1448307;Tl√°huac - Mixcoac;METRO;19.36030391,-99.1448307
-"{""type"": ""Point"", ""coordinates"": [-99.15724397, 19.38628539]}";14074.0;;Eugenia;Metro 3;19.38628539;-99.15724397;Indios Verdes - Universidad;METRO;19.38628539,-99.15724397
-"{""type"": ""Point"", ""coordinates"": [-99.15766239, 19.37046623]}";14240.0;;Parque de los Venados;Metro 12;19.37046623;-99.15766239;Tl√°huac - Mixcoac;METRO;19.37046623,-99.15766239
-"{""type"": ""Point"", ""coordinates"": [-99.1784656, 19.40559422]}";14121.0;;Patriotismo_1_2;Metro 9;19.40559422;-99.1784656;Tacubaya - Pantitl√°n;METRO;19.40559422,-99.1784656
-"{""type"": ""Point"", ""coordinates"": [-99.13051844, 19.46290002]}";14104.0;;Misterios;Metro 5;19.46290002;-99.13051844;Pantitl√°n - Polit√©cnico;METRO;19.46290002,-99.13051844
-"{""type"": ""Point"", ""coordinates"": [-99.200669, 19.397486]}";14055.0;;Observatorio;Metro 1;19.397486;-99.200669;Observatorio - Pantitl√°n;METRO;19.397486,-99.200669
-"{""type"": ""Point"", ""coordinates"": [-99.096696, 19.322002]}";14235.0;;Lomas Estrella;Metro 12;19.322002;-99.096696;Tl√°huac - Mixcoac;METRO;19.322002,-99.096696
-"{""type"": ""Point"", ""coordinates"": [-98.96061659, 19.35048513]}";14207.0;;La Paz;Metro A;19.35048513;-98.96061659;La Paz - Pantitl√°n;METRO;19.35048513,-98.96061659
-"{""type"": ""Point"", ""coordinates"": [-99.1430819, 19.45520174]}";14100.0;;Tlatelolco_1;Metro 3;19.45520174;-99.1430819;Indios Verdes - Universidad;METRO;19.45520174,-99.1430819
-"{""type"": ""Point"", ""coordinates"": [-99.125973, 19.406106]}";14143.0;;La Viga_1;Metro 8;19.406106;-99.125973;Garibaldi - Constituci√≥n de 1917;METRO;19.406106,-99.125973
-"{""type"": ""Point"", ""coordinates"": [-99.17546153, 19.45261196]}";14123.0;;Popotla;Metro 2;19.45261196;-99.17546153;Cuatro Caminos - Tasque√±a;METRO;19.45261196,-99.17546153
-"{""type"": ""Point"", ""coordinates"": [-99.074719, 19.317492]}";14233.0;;Perif√©rico Ote;Metro 12;19.317492;-99.074719;Tl√°huac - Mixcoac;METRO;19.317492,-99.074719
-"{""type"": ""Point"", ""coordinates"": [-99.05831337, 19.30328601]}";14231.0;;Olivos;Metro 12;19.30328601;-99.05831337;Tl√°huac - Mixcoac;METRO;19.30328601,-99.05831337
-"{""type"": ""Point"", ""coordinates"": [-99.11457539, 19.43079953]}";14179.0;;San L√°zaro_1_5;Metro L√≠nea 1 correspondencia con l√≠nea B.;19.43079953;-99.11457539;Observatorio - Pantitl√°n;METRO;19.43079953,-99.11457539
-"{""type"": ""Point"", ""coordinates"": [-99.114463, 19.431822]}";14147.0;;San L√°zaro_1_4;Metro L√≠nea B correspondencia con l√≠nea 1.;19.431822;-99.114463;Buenavista - Ciudad Azteca;METRO;19.431822,-99.114463
-"{""type"": ""Point"", ""coordinates"": [-99.03402328, 19.29639028]}";14229.0;;Zapotitl√°n;Metro 12;19.29639028;-99.03402328;Tl√°huac - Mixcoac;METRO;19.29639028,-99.03402328
-"{""type"": ""Point"", ""coordinates"": [-99.01443243, 19.28680057]}";14227.0;;Tl√°huac;Metro 12;19.28680057;-99.01443243;Tl√°huac - Mixcoac;METRO;19.28680057,-99.01443243
-"{""type"": ""Point"", ""coordinates"": [-99.14730906, 19.4376997]}";14167.0;;Hidalgo_1_2;Metro L√≠nea 2 correspondencia con l√≠nea 3.;19.4376997;-99.14730906;Cuatro Caminos - Tasque√±a;METRO;19.4376997,-99.14730906
-"{""type"": ""Point"", ""coordinates"": [-99.10157204, 19.35570839]}";14066.0;;Atlalilco;Metro L√≠nea 8 correspondencia con l√≠nea 12.;19.35570839;-99.10157204;Garibaldi - Constituci√≥n de 1917;METRO;19.35570839,-99.10157204
-"{""type"": ""Point"", ""coordinates"": [-99.11890984, 19.42917056]}";42487.0;;Candelaria_1;Metro L√≠nea 4 correspondencia con l√≠nea 1.;19.42917056;-99.11890984;Mart√≠n Carrera - Santa Anita;METRO;19.42917056,-99.11890984
-"{""type"": ""Point"", ""coordinates"": [-99.194511, 19.489367]}";14131.0;;Aquiles Serd√°n;Metro 7;19.489367;-99.194511;Barranca del Muerto - El Rosario;METRO;19.489367,-99.194511
-"{""type"": ""Point"", ""coordinates"": [-99.02711391, 19.53444312]}";14208.0;;Ciudad Azteca;Metro B;19.53444312;-99.02711391;Buenavista - Ciudad Azteca;METRO;19.53444312,-99.02711391
-"{""type"": ""Point"", ""coordinates"": [-99.18894768, 19.47873042]}";14132.0;;Camarones;Metro 7;19.47873042;-99.18894768;Barranca del Muerto - El Rosario;METRO;19.47873042,-99.18894768
-"{""type"": ""Point"", ""coordinates"": [-99.14331794, 19.42698509]}";42338.0;;Salto del Agua_1;Metro L√≠nea 1 correspondencia con l√≠nea 8.;19.42698509;-99.14331794;Observatorio - Pantitl√°n;METRO;19.42698509,-99.14331794
-"{""type"": ""Point"", ""coordinates"": [-99.18572903, 19.39122414]}";14063.0;;San Pedro de Los Pinos;Metro 7;19.39122414;-99.18572903;Barranca del Muerto - El Rosario;METRO;19.39122414,-99.18572903
-"{""type"": ""Point"", ""coordinates"": [-99.10342813, 19.43628327]}";14146.0;;R. Flores Mag√≥n;Metro B;19.43628327;-99.10342813;Buenavista - Ciudad Azteca;METRO;19.43628327,-99.10342813
-"{""type"": ""Point"", ""coordinates"": [-99.023829, 19.294555]}";14228.0;;Tlaltenco;Metro 12;19.294555;-99.023829;Tl√°huac - Mixcoac;METRO;19.294555,-99.023829
-"{""type"": ""Point"", ""coordinates"": [-99.09341812, 19.35760127]}";14067.0;;Iztapalapa;Metro 8;19.35760127;-99.09341812;Garibaldi - Constituci√≥n de 1917;METRO;19.35760127,-99.09341812
-"{""type"": ""Point"", ""coordinates"": [-99.17859435, 19.37360387]}";14242.0;;Insurgentes Sur_1;Metro 12;19.37360387;-99.17859435;Tl√°huac - Mixcoac;METRO;19.37360387,-99.17859435
-"{""type"": ""Point"", ""coordinates"": [-99.14061427, 19.43649573]}";14141.0;;Bellas Artes_1;Metro L√≠nea 8 correspondencia con l√≠nea 2.;19.43649573;-99.14061427;Garibaldi - Constituci√≥n de 1917;METRO;19.43649573,-99.14061427
-"{""type"": ""Point"", ""coordinates"": [-99.15389657, 19.43880248]}";14050.0;;Revoluci√≥n_1;Metro 2;19.43880248;-99.15389657;Cuatro Caminos - Tasque√±a;METRO;19.43880248,-99.15389657
-"{""type"": ""Point"", ""coordinates"": [-99.14392948, 19.41301153]}";14154.0;;Obrera;Metro 8;19.41301153;-99.14392948;Garibaldi - Constituci√≥n de 1917;METRO;19.41301153,-99.14392948
-"{""type"": ""Point"", ""coordinates"": [-99.02979612, 19.52822456]}";14209.0;;Plaza Arag√≥n;Metro B;19.52822456;-99.02979612;Buenavista - Ciudad Azteca;METRO;19.52822456,-99.02979612
-"{""type"": ""Point"", ""coordinates"": [-99.0172863, 19.37291562]}";14199.0;;Pe√±√≥n Viejo;Metro A;19.37291562;-99.0172863;La Paz - Pantitl√°n;METRO;19.37291562,-99.0172863
-"{""type"": ""Point"", ""coordinates"": [-99.139954, 19.443376]}";14165.0;;Garibaldi;Metro L√≠nea B correspondencia con l√≠nea 8.;19.443376;-99.139954;Buenavista - Ciudad Azteca;METRO;19.443376,-99.139954
-"{""type"": ""Point"", ""coordinates"": [-99.15950775, 19.3789276]}";14083.0;;Divisi√≥n del Norte;Metro 3;19.3789276;-99.15950775;Indios Verdes - Universidad;METRO;19.3789276,-99.15950775
-"{""type"": ""Point"", ""coordinates"": [-99.13782477, 19.4260947]}";14149.0;;Isabel la Cat√≥lica_1_5;Metro 1;19.4260947;-99.13782477;Observatorio - Pantitl√°n;METRO;19.4260947,-99.13782477
-"{""type"": ""Point"", ""coordinates"": [-99.12541151, 19.42546738]}";14135.0;;Merced;Metro 1;19.42546738;-99.12541151;Observatorio - Pantitl√°n;METRO;19.42546738,-99.12541151
-"{""type"": ""Point"", ""coordinates"": [-99.1671896, 19.44424548]}";14126.0;;Normal;Metro 2;19.44424548;-99.1671896;Cuatro Caminos - Tasque√±a;METRO;19.44424548,-99.1671896
-"{""type"": ""Point"", ""coordinates"": [-99.18664098, 19.40223457]}";14062.0;;Tacubaya_1_2;Metro L√≠nea 7 correspondencia con l√≠nea 1 y l√≠nea 9.;19.40223457;-99.18664098;Barranca del Muerto - El Rosario;METRO;19.40223457,-99.18664098
-"{""type"": ""Point"", ""coordinates"": [-99.18734908, 19.40192086]}";14122.0;;Tacubaya_1_3;Metro L√≠nea 9 correspondencia con l√≠nea 1 y l√≠nea 7.;19.40192086;-99.18734908;Tacubaya - Pantitl√°n;METRO;19.40192086,-99.18734908
-"{""type"": ""Point"", ""coordinates"": [-99.1645503, 19.37073951]}";14077.0;;Zapata;Metro L√≠nea 3 correspondencia con l√≠nea 12.;19.37073951;-99.1645503;Indios Verdes - Universidad;METRO;19.37073951,-99.1645503
+Geometry,stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,trip_heads,agency_id,Geopoint
+"{u'type': u'Point', u'coordinates': [-99.17122364, 19.44864628]}",14124,,Colegio Militar,Metro 2,19.44864628,-99.17122364,Cuatro Caminos - Tasqueña,METRO,"19.44864628, -99.17122364"
+"{u'type': u'Point', u'coordinates': [-99.17658806, 19.42025648]}",14119,,Chapultepec,Metro 1,19.42025648,-99.17658806,Observatorio - Pantitlán,METRO,"19.42025648, -99.17658806"
+"{u'type': u'Point', u'coordinates': [-99.10934, 19.378298]}",14095,,Apatlaco,Metro 8,19.378298,-99.10934,Garibaldi - Constitución de 1917,METRO,"19.378298, -99.10934"
+"{u'type': u'Point', u'coordinates': [-99.08486724, 19.32025578]}",14234,,Calle 11,Metro 12,19.32025578,-99.08486724,Tláhuac - Mixcoac,METRO,"19.32025578, -99.08486724"
+"{u'type': u'Point', u'coordinates': [-99.08690572, 19.44542916]}",14061,,Oceania,Metro Línea 5 correspondencia con línea B.,19.44542916,-99.08690572,Pantitlán - Politécnico,METRO,"19.44542916, -99.08690572"
+"{u'type': u'Point', u'coordinates': [-99.18686628, 19.37567873]}",132131,,Mixcoac,Metro Línea 12 correspondencia con línea 7.,19.37567873,-99.18686628,Mixcoac - Tláhuac,METRO,"19.37567873, -99.18686628"
+"{u'type': u'Point', u'coordinates': [-99.08233523, 19.40697045]}",14068,,Puebla,Metro 9,19.40697045,-99.08233523,Tacubaya - Pantitlán,METRO,"19.40697045, -99.08233523"
+"{u'type': u'Point', u'coordinates': [-99.136176, 19.468965]}",14103,,La Raza,Metro Línea 5 correspondencia con línea 3.,19.468965,-99.136176,Pantitlán - Politécnico,METRO,"19.468965, -99.136176"
+"{u'type': u'Point', u'coordinates': [-99.12227869, 19.40894369]}",14144,,Jamaica,Metro Línea 9 correspondencia con línea 4.,19.40894369,-99.12227869,Tacubaya - Pantitlán,METRO,"19.40894369, -99.12227869"
+"{u'type': u'Point', u'coordinates': [-99.15455103, 19.42565962]}",14096,,Cuauhtemoc,Metro 1,19.42565962,-99.15455103,Observatorio - Pantitlán,METRO,"19.42565962, -99.15455103"
+"{u'type': u'Point', u'coordinates': [-99.173702, 19.49039233]}",14133,,Ferreria,Metro 6,19.49039233,-99.173702,Martín Carrera - El Rosario,METRO,"19.49039233, -99.173702"
+"{u'type': u'Point', u'coordinates': [-99.14263129, 19.36186271]}",14086,,Ermita,Metro 2,19.36186271,-99.14263129,Cuatro Caminos - Tasqueña,METRO,"19.36186271, -99.14263129"
+"{u'type': u'Point', u'coordinates': [-99.18803573, 19.45913691]}",14112,,Tacuba,Metro Línea 2 correspondencia con línea 7.,19.45913691,-99.18803573,Cuatro Caminos - Tasqueña,METRO,"19.45913691, -99.18803573"
+"{u'type': u'Point', u'coordinates': [-99.14105415, 19.34400644]}",14090,,Tasquena,Metro 2,19.34400644,-99.14105415,Cuatro Caminos - Tasqueña,METRO,"19.34400644, -99.14105415"
+"{u'type': u'Point', u'coordinates': [-99.10283804, 19.40811392]}",14176,,Velodromo,Metro 9,19.40811392,-99.10283804,Tacubaya - Pantitlán,METRO,"19.40811392, -99.10283804"
+"{u'type': u'Point', u'coordinates': [-99.13758874, 19.3950293]}",14057,,Xola,Metro 2,19.3950293,-99.13758874,Cuatro Caminos - Tasqueña,METRO,"19.3950293, -99.13758874"
+"{u'type': u'Point', u'coordinates': [-99.063367, 19.345135]}",14202,,Constitucion de 1917,Metro 8,19.345135,-99.063367,Garibaldi - Constitución de 1917,METRO,"19.345135, -99.063367"
+"{u'type': u'Point', u'coordinates': [-99.06982541, 19.40404596]}",14070,,Agricola Oriental,Metro A,19.40404596,-99.06982541,La Paz - Pantitlán,METRO,"19.40404596, -99.06982541"
+"{u'type': u'Point', u'coordinates': [-99.15133238, 19.36118453]}",14239,,Eje Central,Metro 12,19.36118453,-99.15133238,Tláhuac - Mixcoac,METRO,"19.36118453, -99.15133238"
+"{u'type': u'Point', u'coordinates': [-99.17657733, 19.33597857]}",14075,,Copilco,Metro 3,19.33597857,-99.17657733,Indios Verdes - Universidad,METRO,"19.33597857, -99.17657733"
+"{u'type': u'Point', u'coordinates': [-99.10779476, 19.47415847]}",14101,,Talisman,Metro 4,19.47415847,-99.10779476,Martín Carrera - Santa Anita,METRO,"19.47415847, -99.10779476"
+"{u'type': u'Point', u'coordinates': [-99.131748, 19.476413]}",14192,,Potrero,Metro 3,19.476413,-99.131748,Indios Verdes - Universidad,METRO,"19.476413, -99.131748"
+"{u'type': u'Point', u'coordinates': [-99.14638638, 19.49054404]}",42489,,Instituto del Petroleo,Metro Línea 6 correspondencia con línea 5.,19.49054404,-99.14638638,Martín Carrera - El Rosario,METRO,"19.49054404, -99.14638638"
+"{u'type': u'Point', u'coordinates': [-99.1531992, 19.41369961]}",14152,,Hospital General,Metro 3,19.41369961,-99.1531992,Indios Verdes - Universidad,METRO,"19.41369961, -99.1531992"
+"{u'type': u'Point', u'coordinates': [-99.14478779, 19.35319801]}",14089,,General Anaya,Metro 2,19.35319801,-99.14478779,Cuatro Caminos - Tasqueña,METRO,"19.35319801, -99.14478779"
+"{u'type': u'Point', u'coordinates': [-99.17099833, 19.37192372]}",14241,,Hospital 20 de Nov.,Metro 12,19.37192372,-99.17099833,Tláhuac - Mixcoac,METRO,"19.37192372, -99.17099833"
+"{u'type': u'Point', u'coordinates': [-99.07434225, 19.41616858]}",14216,,Pantitlan,Metro Línea 1 correspondencia con líneas 5 9 y A.,19.41616858,-99.07434225,Observatorio - Pantitlán,METRO,"19.41616858, -99.07434225"
+"{u'type': u'Point', u'coordinates': [-99.13987398, 19.37938304]}",14093,,Nativitas,Metro 2,19.37938304,-99.13987398,Cuatro Caminos - Tasqueña,METRO,"19.37938304, -99.13987398"
+"{u'type': u'Point', u'coordinates': [-99.11988616, 19.45868169]}",14140,,Valle Gomez,Metro 5,19.45868169,-99.11988616,Pantitlán - Politécnico,METRO,"19.45868169, -99.11988616"
+"{u'type': u'Point', u'coordinates': [-99.18053627, 19.34651696]}",14082,,Miguel angel de Quevedo,Metro 3,19.34651696,-99.18053627,Indios Verdes - Universidad,METRO,"19.34651696, -99.18053627"
+"{u'type': u'Point', u'coordinates': [-99.15023804, 19.41946724]}",14151,,Ninos Heroes,Metro 3,19.41946724,-99.15023804,Indios Verdes - Universidad,METRO,"19.41946724, -99.15023804"
+"{u'type': u'Point', u'coordinates': [-99.13107634, 19.44300109]}",14171,,Lagunilla,Metro B,19.44300109,-99.13107634,Buenavista - Ciudad Azteca,METRO,"19.44300109, -99.13107634"
+"{u'type': u'Point', u'coordinates': [-99.12191391, 19.35744944]}",14238,,Mexicaltzingo,Metro 12,19.35744944,-99.12191391,Tláhuac - Mixcoac,METRO,"19.35744944, -99.12191391"
+"{u'type': u'Point', u'coordinates': [-99.148806, 19.499964]}",14188,,Politecnico,Metro 5,19.499964,-99.148806,Pantitlán - Politécnico,METRO,"19.499964, -99.148806"
+"{u'type': u'Point', u'coordinates': [-99.19160843, 19.44553033]}",14113,,San Joaquin,Metro 7,19.44553033,-99.19160843,Barranca del Muerto - El Rosario,METRO,"19.44553033, -99.19160843"
+"{u'type': u'Point', u'coordinates': [-99.04651165, 19.39072824]}",14200,,Tepalcates,Metro A,19.39072824,-99.04651165,La Paz - Pantitlán,METRO,"19.39072824, -99.04651165"
+"{u'type': u'Point', u'coordinates': [-99.131879, 19.432602]}",14136,,Zocalo,Metro 2,19.432602,-99.131879,Cuatro Caminos - Tasqueña,METRO,"19.432602, -99.131879"
+"{u'type': u'Point', u'coordinates': [-99.14455175, 19.489836060000002]}",14194,,Instituto del Petroleo,Metro Línea 6 correspondencia con línea 5.,19.48983606,-99.14455175,Pantitlán - Politécnico,METRO,"19.48983606, -99.14455175"
+"{u'type': u'Point', u'coordinates': [-99.14681554, 19.43674867]}",14168,,Hidalgo,Metro Línea 3 correspondencia con línea 2.,19.43674867,-99.14681554,Indios Verdes - Universidad,METRO,"19.43674867, -99.14681554"
+"{u'type': u'Point', u'coordinates': [-99.112086, 19.388092]}",14094,,Iztacalco,Metro 8,19.388092,-99.112086,Garibaldi - Constitución de 1917,METRO,"19.388092, -99.112086"
+"{u'type': u'Point', u'coordinates': [-99.048743, 19.484987]}",14223,,Impulsora,Metro B,19.484987,-99.048743,Buenavista - Ciudad Azteca,METRO,"19.484987, -99.048743"
+"{u'type': u'Point', u'coordinates': [-99.11989689, 19.42909974]}",14134,,Candelaria,Metro Línea 1 correspondencia con línea 4.,19.42909974,-99.11989689,Observatorio - Pantitlán,METRO,"19.42909974, -99.11989689"
+"{u'type': u'Point', u'coordinates': [-99.18895841, 19.3614882]}",14080,,Barranca del Muerto,Metro 7,19.3614882,-99.18895841,Barranca del Muerto - El Rosario,METRO,"19.3614882, -99.18895841"
+"{u'type': u'Point', u'coordinates': [-99.12543297, 19.4840507]}",14187,,Deportivo 18 de Marzo,Metro Línea 3 correspondencia con línea 6.,19.4840507,-99.12543297,Indios Verdes - Universidad,METRO,"19.4840507, -99.12543297"
+"{u'type': u'Point', u'coordinates': [-99.13542151, 19.40891333]}",14159,,Chabacano,Metro Línea 2 correspondencia con línea 8 y línea 9.,19.40891333,-99.13542151,Cuatro Caminos - Tasqueña,METRO,"19.40891333, -99.13542151"
+"{u'type': u'Point', u'coordinates': [-99.11348104, 19.455485]}",15154,,Consulado,Metro Línea 5 correspondencia con línea 4.,19.455485,-99.11348104,Pantitlán - Politécnico,METRO,"19.455485, -99.11348104"
+"{u'type': u'Point', u'coordinates': [-99.06927824, 19.45807473]}",14219,,Bosque de Aragon,Metro B,19.45807473,-99.06927824,Buenavista - Ciudad Azteca,METRO,"19.45807473, -99.06927824"
+"{u'type': u'Point', u'coordinates': [-99.13670897, 19.43547387]}",14163,,Allende,Metro 2,19.43547387,-99.13670897,Cuatro Caminos - Tasqueña,METRO,"19.43547387, -99.13670897"
+"{u'type': u'Point', u'coordinates': [-99.13268566, 19.42595305]}",14161,,Pino Suarez,Metro Línea 1 correspondencia con línea 2.,19.42595305,-99.13268566,Observatorio - Pantitlán,METRO,"19.42595305, -99.13268566"
+"{u'type': u'Point', u'coordinates': [-99.13862944, 19.38746949]}",14092,,Villa de Cortes,Metro 2,19.38746949,-99.13862944,Cuatro Caminos - Tasqueña,METRO,"19.38746949, -99.13862944"
+"{u'type': u'Point', u'coordinates': [-99.13663387, 19.400746990000002]}",14056,,Viaducto,Metro 2,19.40074699,-99.13663387,Cuatro Caminos - Tasqueña,METRO,"19.40074699, -99.13663387"
+"{u'type': u'Point', u'coordinates': [-99.15479779, 19.49031142]}",14106,,Vallejo,Metro 6,19.49031142,-99.15479779,Martín Carrera - El Rosario,METRO,"19.49031142, -99.15479779"
+"{u'type': u'Point', u'coordinates': [-99.11790133, 19.43973327]}",14182,,Morelos,Metro Línea 4 correspondencia con línea B.,19.43973327,-99.11790133,Martín Carrera - Santa Anita,METRO,"19.43973327, -99.11790133"
+"{u'type': u'Point', u'coordinates': [-99.12203193, 19.41014786]}",14175,,Jamaica,Metro Línea 4 correspondencia con línea 9.,19.41014786,-99.12203193,Martín Carrera - Santa Anita,METRO,"19.41014786, -99.12203193"
+"{u'type': u'Point', u'coordinates': [-99.1463542, 19.44522682]}",14166,,Guerrero,Metro Línea B correspondencia con línea 3.,19.44522682,-99.1463542,Buenavista - Ciudad Azteca,METRO,"19.44522682, -99.1463542"
+"{u'type': u'Point', u'coordinates': [-99.08683062, 19.44572255]}",14072,,Oceania,Metro Línea B correspondencia con línea 5.,19.44572255,-99.08683062,Buenavista - Ciudad Azteca,METRO,"19.44572255, -99.08683062"
+"{u'type': u'Point', u'coordinates': [-99.14335012, 19.42049932]}",14153,,Doctores,Metro 8,19.42049932,-99.14335012,Garibaldi - Constitución de 1917,METRO,"19.42049932, -99.14335012"
+"{u'type': u'Point', u'coordinates': [-99.11285877, 19.40820499]}",14177,,Mixhuca,Metro 9,19.40820499,-99.11285877,Tacubaya - Pantitlán,METRO,"19.40820499, -99.11285877"
+"{u'type': u'Point', u'coordinates': [-98.97670984, 19.35877546]}",14206,,Los Reyes,Metro A,19.35877546,-98.97670984,La Paz - Pantitlán,METRO,"19.35877546, -98.97670984"
+"{u'type': u'Point', u'coordinates': [-99.16540861, 19.3705472]}",42432,,Zapata,Metro Línea 12 correspondencia con línea 3.,19.3705472,-99.16540861,Tláhuac - Mixcoac,METRO,"19.3705472, -99.16540861"
+"{u'type': u'Point', u'coordinates': [-99.15531278, 19.40749665]}",14058,,Centro Medico,Metro Línea 3 correspondencia con línea 9.,19.40749665,-99.15531278,Indios Verdes - Universidad,METRO,"19.40749665, -99.15531278"
+"{u'type': u'Point', u'coordinates': [-99.085872, 19.355601]}",14203,,Cerro de la Estrella,Metro 8,19.355601,-99.085872,Garibaldi - Constitución de 1917,METRO,"19.355601, -99.085872"
+"{u'type': u'Point', u'coordinates': [-99.1117537, 19.46450842]}",14102,,Bondojito,Metro 4,19.46450842,-99.1117537,Martín Carrera - Santa Anita,METRO,"19.46450842, -99.1117537"
+"{u'type': u'Point', u'coordinates': [-99.05969739, 19.39821706]}",14071,,Canal de San Juan,Metro A,19.39821706,-99.05969739,La Paz - Pantitlán,METRO,"19.39821706, -99.05969739"
+"{u'type': u'Point', u'coordinates': [-99.07505035, 19.41528826]}",14214,,Pantitlan,Metro Línea 5 correspondencia con líneas 1 9 y A.,19.41528826,-99.07505035,Pantitlán - Politécnico,METRO,"19.41528826, -99.07505035"
+"{u'type': u'Point', u'coordinates': [-99.10259128, 19.3272315]}",14236,,San Andres Tomatlan,Metro 12,19.3272315,-99.10259128,Tláhuac - Mixcoac,METRO,"19.3272315, -99.10259128"
+"{u'type': u'Point', u'coordinates': [-99.135489, 19.408513]}",14145,,Chabacano,Metro Línea 9 correspondencia con línea 2 y línea 8.,19.408513,-99.135489,Tacubaya - Pantitlán,METRO,"19.408513, -99.135489"
+"{u'type': u'Point', u'coordinates': [-99.10544515, 19.45112485]}",14184,,Eduardo Molina,Metro 5,19.45112485,-99.10544515,Pantitlán - Politécnico,METRO,"19.45112485, -99.10544515"
+"{u'type': u'Point', u'coordinates': [-99.09135818, 19.40811392]}",14069,,Ciudad Deportiva,Metro 9,19.40811392,-99.09135818,Tacubaya - Pantitlán,METRO,"19.40811392, -99.09135818"
+"{u'type': u'Point', u'coordinates': [-99.214643, 19.458454]}",14117,,Cuatro Caminos,Metro 2,19.458454,-99.214643,Cuatro Caminos - Tasqueña,METRO,"19.458454, -99.214643"
+"{u'type': u'Point', u'coordinates': [-99.03579354, 19.38459525]}",14198,,Guelatao,Metro A,19.38459525,-99.03579354,La Paz - Pantitlán,METRO,"19.38459525, -99.03579354"
+"{u'type': u'Point', u'coordinates': [-99.10599232, 19.4837675]}",14196,,Martin Carrera,Metro Línea 4 correspondencia con línea 6.,19.4837675,-99.10599232,Martín Carrera - Santa Anita,METRO,"19.4837675, -99.10599232"
+"{u'type': u'Point', u'coordinates': [-99.11933, 19.438426]}",14051,,Morelos,Metro Línea B correspondencia con línea 4.,19.438426,-99.11933,Buenavista - Ciudad Azteca,METRO,"19.438426, -99.11933"
+"{u'type': u'Point', u'coordinates': [-99.16325212, 19.42359552]}",14097,,Insurgentes,Metro 1,19.42359552,-99.16325212,Observatorio - Pantitlán,METRO,"19.42359552, -99.16325212"
+"{u'type': u'Point', u'coordinates': [-99.13434863, 19.4875806]}",14195,,Lindavista,Metro 6,19.4875806,-99.13434863,Martín Carrera - El Rosario,METRO,"19.4875806, -99.13434863"
+"{u'type': u'Point', u'coordinates': [-99.054375, 19.472534]}",14210,,Nezahualcoyotl,Metro B,19.472534,-99.054375,Buenavista - Ciudad Azteca,METRO,"19.472534, -99.054375"
+"{u'type': u'Point', u'coordinates': [-99.109803, 19.426271]}",14173,,Moctezuma,Metro 1,19.426271,-99.109803,Observatorio - Pantitlán,METRO,"19.426271, -99.109803"
+"{u'type': u'Point', u'coordinates': [-99.14155841, 19.43595951]}",14162,,Bellas Artes,Metro Línea 2 correspondencia con línea 8.,19.43595951,-99.14155841,Cuatro Caminos - Tasqueña,METRO,"19.43595951, -99.14155841"
+"{u'type': u'Point', u'coordinates': [-99.11589503, 19.44866652]}",14181,,Canal del Norte,Metro 4,19.44866652,-99.11589503,Martín Carrera - Santa Anita,METRO,"19.44866652, -99.11589503"
+"{u'type': u'Point', u'coordinates': [-99.15289879, 19.44615757]}",14170,,Buenavista,Metro B,19.44615757,-99.15289879,Buenavista - Ciudad Azteca,METRO,"19.44615757, -99.15289879"
+"{u'type': u'Point', u'coordinates': [-99.10554171, 19.48231101]}",14197,,Martin Carrera,Metro Línea 6 correspondencia con línea 4.,19.48231101,-99.10554171,Martín Carrera - El Rosario,METRO,"19.48231101, -99.10554171"
+"{u'type': u'Point', u'coordinates': [-99.07262564, 19.4146103]}",14215,,Pantitlan,Metro Línea A correspondencia con líneas 1 5 y 9.,19.4146103,-99.07262564,La Paz - Pantitlán,METRO,"19.4146103, -99.07262564"
+"{u'type': u'Point', u'coordinates': [-99.14130092, 19.36976784]}",14085,,Portales,Metro 2,19.36976784,-99.14130092,Cuatro Caminos - Tasqueña,METRO,"19.36976784, -99.14130092"
+"{u'type': u'Point', u'coordinates': [-99.04171586, 19.50096117]}",14221,,Muzquiz,Metro B,19.50096117,-99.04171586,Buenavista - Ciudad Azteca,METRO,"19.50096117, -99.04171586"
+"{u'type': u'Point', u'coordinates': [-99.04621124, 19.29939771]}",14230,,Nopalera,Metro 12,19.29939771,-99.04621124,Tláhuac - Mixcoac,METRO,"19.29939771, -99.04621124"
+"{u'type': u'Point', u'coordinates': [-99.19138312, 19.41129131]}",14116,,Constituyentes,Metro 7,19.41129131,-99.19138312,Barranca del Muerto - El Rosario,METRO,"19.41129131, -99.19138312"
+"{u'type': u'Point', u'coordinates': [-99.087095, 19.423251]}",14213,,Hangares,Metro 5,19.423251,-99.087095,Pantitlán - Politécnico,METRO,"19.423251, -99.087095"
+"{u'type': u'Point', u'coordinates': [-99.12120581, 19.40425847]}",14178,,Santa Anita,Metro Línea 4 correspondencia con líneas 8.,19.40425847,-99.12120581,Martín Carrera - Santa Anita,METRO,"19.40425847, -99.12120581"
+"{u'type': u'Point', u'coordinates': [-99.19593215, 19.49448847]}",14128,,Tezozomoc,Metro 6,19.49448847,-99.19593215,Martín Carrera - El Rosario,METRO,"19.49448847, -99.19593215"
+"{u'type': u'Point', u'coordinates': [-99.12576556, 19.48358544]}",14190,,Deportivo 18 de Marzo,Metro Línea 6 correspondencia con línea 3.,19.48358544,-99.12576556,Martín Carrera - El Rosario,METRO,"19.48358544, -99.12576556"
+"{u'type': u'Point', u'coordinates': [-99.10632491, 19.35264126]}",42427,,Atlalilco,Metro Línea 12 correspondencia con línea 8.,19.35264126,-99.10632491,Tláhuac - Mixcoac,METRO,"19.35264126, -99.10632491"
+"{u'type': u'Point', u'coordinates': [-99.10894275, 19.33887391]}",14237,,Culhuacan,Metro 12,19.33887391,-99.10894275,Tláhuac - Mixcoac,METRO,"19.33887391, -99.10894275"
+"{u'type': u'Point', u'coordinates': [-99.18823957, 19.40213338]}",14054,,Tacubaya,Metro Línea 1 correspondencia con línea 7 y línea 9.,19.40213338,-99.18823957,Observatorio - Pantitlán,METRO,"19.40213338, -99.18823957"
+"{u'type': u'Point', u'coordinates': [-99.12136674, 19.40397512]}",14064,,Santa Anita,Metro Línea 8 correspondencia con línea 4.,19.40397512,-99.12136674,Garibaldi - Constitución de 1917,METRO,"19.40397512, -99.12136674"
+"{u'type': u'Point', u'coordinates': [-99.188501, 19.458383]}",14108,,Tacuba,Metro Línea 7 correspondencia con línea 2.,19.458383,-99.188501,Barranca del Muerto - El Rosario,METRO,"19.458383, -99.188501"
+"{u'type': u'Point', u'coordinates': [-99.04635072, 19.49024062]}",14222,,Rio de los Remedios,Metro B,19.49024062,-99.04635072,Buenavista - Ciudad Azteca,METRO,"19.49024062, -99.04635072"
+"{u'type': u'Point', u'coordinates': [-99.11815882, 19.4814715]}",14191,,La Villa - Basilica,Metro 6,19.4814715,-99.11815882,Martín Carrera - El Rosario,METRO,"19.4814715, -99.11815882"
+"{u'type': u'Point', u'coordinates': [-99.18207049, 19.41290022]}",14120,,Juanacatlan,Metro 1,19.41290022,-99.18207049,Observatorio - Pantitlán,METRO,"19.41290022, -99.18207049"
+"{u'type': u'Point', u'coordinates': [-99.065867, 19.306124]}",14232,,Tezonco,Metro 12,19.306124,-99.065867,Tláhuac - Mixcoac,METRO,"19.306124, -99.065867"
+"{u'type': u'Point', u'coordinates': [-99.03298259, 19.52084286]}",14224,,Olimpica,Metro B,19.52084286,-99.03298259,Buenavista - Ciudad Azteca,METRO,"19.52084286, -99.03298259"
+"{u'type': u'Point', u'coordinates': [-99.18661952, 19.38481791]}",14084,,San Antonio,Metro 7,19.38481791,-99.18661952,Barranca del Muerto - El Rosario,METRO,"19.38481791, -99.18661952"
+"{u'type': u'Point', u'coordinates': [-99.17407751, 19.32433595]}",14076,,Universidad,Metro 3,19.32433595,-99.17407751,Indios Verdes - Universidad,METRO,"19.32433595, -99.17407751"
+"{u'type': u'Point', u'coordinates': [-99.15617108, 19.39604129]}",14059,,Etiopia / Plaza de la Transpatencia,Metro 3,19.39604129,-99.15617108,Indios Verdes - Universidad,METRO,"19.39604129, -99.15617108"
+"{u'type': u'Point', u'coordinates': [-99.10931826, 19.36449442]}",14088,,Escuadron 201,Metro 8,19.36449442,-99.10931826,Garibaldi - Constitución de 1917,METRO,"19.36449442, -99.10931826"
+"{u'type': u'Point', u'coordinates': [-99.07917023, 19.45077077]}",14220,,Deportivo Oceania,Metro B,19.45077077,-99.07917023,Buenavista - Ciudad Azteca,METRO,"19.45077077, -99.07917023"
+"{u'type': u'Point', u'coordinates': [-99.09070373, 19.41608763]}",14052,,Gomez Farias,Metro 1,19.41608763,-99.09070373,Observatorio - Pantitlán,METRO,"19.41608763, -99.09070373"
+"{u'type': u'Point', u'coordinates': [-99.14771676, 19.43336942]}",14138,,Juarez,Metro 3,19.43336942,-99.14771676,Indios Verdes - Universidad,METRO,"19.43336942, -99.14771676"
+"{u'type': u'Point', u'coordinates': [-99.13574338, 19.40853892]}",14155,,Chabacano,Metro Línea 8 correspondencia con línea 2 y línea 9.,19.40853892,-99.13574338,Garibaldi - Constitución de 1917,METRO,"19.40853892, -99.13574338"
+"{u'type': u'Point', u'coordinates': [-99.09606814, 19.41958866]}",14053,,Blvd. Puerto Aereo,Metro 1,19.41958866,-99.09606814,Observatorio - Pantitlán,METRO,"19.41958866, -99.09606814"
+"{u'type': u'Point', u'coordinates': [-99.1683054, 19.40575613]}",14110,,Chilpancingo,Metro 9,19.40575613,-99.1683054,Tacubaya - Pantitlán,METRO,"19.40575613, -99.1683054"
+"{u'type': u'Point', u'coordinates': [-99.15504456, 19.40636329]}",14109,,Centro Medico,Metro Línea 9 correspondencia con línea 3.,19.40636329,-99.15504456,Tacubaya - Pantitlán,METRO,"19.40636329, -99.15504456"
+"{u'type': u'Point', u'coordinates': [-99.11388874, 19.45682033]}",14185,,Consulado,Metro Línea 4 correspondencia con línea 5.,19.45682033,-99.11388874,Martín Carrera - Santa Anita,METRO,"19.45682033, -99.11388874"
+"{u'type': u'Point', u'coordinates': [-99.18621182, 19.49067553]}",14129,,Azcapotzalco,Metro 6,19.49067553,-99.18621182,Martín Carrera - El Rosario,METRO,"19.49067553, -99.18621182"
+"{u'type': u'Point', u'coordinates': [-99.14116144, 19.43098165]}",14142,,San Juan de Letran,Metro 8,19.43098165,-99.14116144,Garibaldi - Constitución de 1917,METRO,"19.43098165, -99.14116144"
+"{u'type': u'Point', u'coordinates': [-99.18985963, 19.46911098]}",14107,,Refineria,Metro 7,19.46911098,-99.18985963,Barranca del Muerto - El Rosario,METRO,"19.46911098, -99.18985963"
+"{u'type': u'Point', u'coordinates': [-99.072516, 19.414885]}",14226,,Pantitlan,Metro Línea 9 correspondencia con líneas 1 5 y A.,19.414885,-99.072516,Tacubaya - Pantitlán,METRO,"19.414885, -99.072516"
+"{u'type': u'Point', u'coordinates': [-99.17542934, 19.35376487]}",14081,,Viveros,Metro 3,19.35376487,-99.17542934,Indios Verdes - Universidad,METRO,"19.35376487, -99.17542934"
+"{u'type': u'Point', u'coordinates': [-99.14912224, 19.42729875]}",14157,,Balderas,Metro Línea 1 correspondencia con línea 3.,19.42729875,-99.14912224,Observatorio - Pantitlán,METRO,"19.42729875, -99.14912224"
+"{u'type': u'Point', u'coordinates': [-99.1488111, 19.42692438]}",14139,,Balderas,Metro Línea 3 correspondencia con línea 1.,19.42692438,-99.1488111,Indios Verdes - Universidad,METRO,"19.42692438, -99.1488111"
+"{u'type': u'Point', u'coordinates': [-99.140471, 19.478595]}",14193,,Autobuses del Norte,Metro 5,19.478595,-99.140471,Pantitlán - Politécnico,METRO,"19.478595, -99.140471"
+"{u'type': u'Point', u'coordinates': [-99.00597811, 19.3642515]}",14204,,Acatitla,Metro A,19.3642515,-99.00597811,La Paz - Pantitlán,METRO,"19.3642515, -99.00597811"
+"{u'type': u'Point', u'coordinates': [-99.14207339, 19.42720768]}",14158,,Salto del Agua,Metro Línea 8 correspondencia con línea 1.,19.42720768,-99.14207339,Garibaldi - Constitución de 1917,METRO,"19.42720768, -99.14207339"
+"{u'type': u'Point', u'coordinates': [-99.19079304, 19.43337954]}",14114,,Polanco,Metro 7,19.43337954,-99.19079304,Barranca del Muerto - El Rosario,METRO,"19.43337954, -99.19079304"
+"{u'type': u'Point', u'coordinates': [-99.16249037, 19.48823803]}",14105,,Norte 45,Metro 6,19.48823803,-99.16249037,Martín Carrera - El Rosario,METRO,"19.48823803, -99.16249037"
+"{u'type': u'Point', u'coordinates': [-99.20294, 19.458219]}",14111,,Panteones,Metro 2,19.458219,-99.20294,Cuatro Caminos - Tasqueña,METRO,"19.458219, -99.20294"
+"{u'type': u'Point', u'coordinates': [-99.181555, 19.45668]}",14125,,Cuitlahuac,Metro 2,19.45668,-99.181555,Cuatro Caminos - Tasqueña,METRO,"19.45668, -99.181555"
+"{u'type': u'Point', u'coordinates': [-99.113413, 19.39769]}",14065,,Coyuya,Metro 8,19.39769,-99.113413,Garibaldi - Constitución de 1917,METRO,"19.39769, -99.113413"
+"{u'type': u'Point', u'coordinates': [-99.17056918, 19.36142746]}",14078,,Coyoacan,Metro 3,19.36142746,-99.17056918,Indios Verdes - Universidad,METRO,"19.36142746, -99.17056918"
+"{u'type': u'Point', u'coordinates': [-99.13904786, 19.46907052]}",14099,,La Raza,Metro Línea 3 correspondencia con línea 5.,19.46907052,-99.13904786,Indios Verdes - Universidad,METRO,"19.46907052, -99.13904786"
+"{u'type': u'Point', u'coordinates': [-99.13429499, 19.4159055]}",14160,,San Antonio Abad,Metro 2,19.4159055,-99.13429499,Cuatro Caminos - Tasqueña,METRO,"19.4159055, -99.13429499"
+"{u'type': u'Point', u'coordinates': [-99.08322573, 19.41179726]}",14217,,Zaragoza,Metro 1,19.41179726,-99.08322573,Observatorio - Pantitlán,METRO,"19.41179726, -99.08322573"
+"{u'type': u'Point', u'coordinates': [-99.10281658, 19.42288725]}",14172,,Balbuena,Metro 1,19.42288725,-99.10281658,Observatorio - Pantitlán,METRO,"19.42288725, -99.10281658"
+"{u'type': u'Point', u'coordinates': [-99.09598231, 19.45101356]}",14060,,Aragon,Metro 5,19.45101356,-99.09598231,Pantitlán - Politécnico,METRO,"19.45101356, -99.09598231"
+"{u'type': u'Point', u'coordinates': [-99.18774605, 19.37625563]}",14079,,Mixcoac,Metro Línea 7 correspondencia con línea 12.,19.37625563,-99.18774605,Tláhuac - Mixcoac,METRO,"19.37625563, -99.18774605"
+"{u'type': u'Point', u'coordinates': [-99.09420133, 19.44048194]}",14073,,Romero Rubio,Metro B,19.44048194,-99.09420133,Buenavista - Ciudad Azteca,METRO,"19.44048194, -99.09420133"
+"{u'type': u'Point', u'coordinates': [-99.19948339, 19.50522896]}",14127,,El Rosario,Metro Línea 6 correspondencia con línea 7.,19.50522896,-99.19948339,Martín Carrera - El Rosario,METRO,"19.50522896, -99.19948339"
+"{u'type': u'Point', u'coordinates': [-99.139034, 19.443082]}",14169,,Garibaldi,Metro Línea 8 correspondencia con línea B.,19.443082,-99.139034,Garibaldi - Constitución de 1917,METRO,"19.443082, -99.139034"
+"{u'type': u'Point', u'coordinates': [-99.14433718, 19.40702104]}",14156,,Lazaro Cardenas,Metro 9,19.40702104,-99.14433718,Tacubaya - Pantitlán,METRO,"19.40702104, -99.14433718"
+"{u'type': u'Point', u'coordinates': [-99.06114578, 19.4613523]}",14211,,Villa de Aragon,Metro B,19.4613523,-99.06114578,Buenavista - Ciudad Azteca,METRO,"19.4613523, -99.06114578"
+"{u'type': u'Point', u'coordinates': [-99.03568625, 19.51470467]}",14225,,Tecnologico,Metro B,19.51470467,-99.03568625,Buenavista - Ciudad Azteca,METRO,"19.51470467, -99.03568625"
+"{u'type': u'Point', u'coordinates': [-99.16094542, 19.44185787]}",14098,,San Cosme,Metro 2,19.44185787,-99.16094542,Cuatro Caminos - Tasqueña,METRO,"19.44185787, -99.16094542"
+"{u'type': u'Point', u'coordinates': [-99.074808, 19.350327]}",14201,,UAM-I,Metro 8,19.350327,-99.074808,Garibaldi - Constitución de 1917,METRO,"19.350327, -99.074808"
+"{u'type': u'Point', u'coordinates': [-98.995894, 19.359804]}",14205,,Santa Marta,Metro A,19.359804,-98.995894,La Paz - Pantitlán,METRO,"19.359804, -98.995894"
+"{u'type': u'Point', u'coordinates': [-99.19173717, 19.42530549]}",14115,,Auditorio,Metro 7,19.42530549,-99.19173717,Barranca del Muerto - El Rosario,METRO,"19.42530549, -99.19173717"
+"{u'type': u'Point', u'coordinates': [-99.10739779, 19.37292574]}",14087,,Aculco,Metro 8,19.37292574,-99.10739779,Garibaldi - Constitución de 1917,METRO,"19.37292574, -99.10739779"
+"{u'type': u'Point', u'coordinates': [-99.13303971, 19.42543703]}",14137,,Pino Suarez,Metro Línea 2 correspondencia con línea 1.,19.42543703,-99.13303971,Cuatro Caminos - Tasqueña,METRO,"19.42543703, -99.13303971"
+"{u'type': u'Point', u'coordinates': [-99.08820391, 19.43380448]}",14212,,Terminal Aerea,Metro 5,19.43380448,-99.08820391,Pantitlán - Politécnico,METRO,"19.43380448, -99.08820391"
+"{u'type': u'Point', u'coordinates': [-99.17074084, 19.42189565]}",14118,,Sevilla,Metro 1,19.42189565,-99.17074084,Observatorio - Pantitlán,METRO,"19.42189565, -99.17074084"
+"{u'type': u'Point', u'coordinates': [-99.12323356, 19.44256606]}",14148,,Tepito,Metro B,19.44256606,-99.12323356,Buenavista - Ciudad Azteca,METRO,"19.44256606, -99.12323356"
+"{u'type': u'Point', u'coordinates': [-99.20029879, 19.5039547]}",14130,,El Rosario,Metro Línea 7 correspondencia con línea 6.,19.5039547,-99.20029879,Barranca del Muerto - El Rosario,METRO,"19.5039547, -99.20029879"
+"{u'type': u'Point', u'coordinates': [-99.14501309, 19.44475133]}",14164,,Guerrero,Metro Línea 3 correspondencia con línea B.,19.44475133,-99.14501309,Indios Verdes - Universidad,METRO,"19.44475133, -99.14501309"
+"{u'type': u'Point', u'coordinates': [-99.12033677, 19.42149092]}",14174,,Fray Servando,Metro 4,19.42149092,-99.12033677,Martín Carrera - Santa Anita,METRO,"19.42149092, -99.12033677"
+"{u'type': u'Point', u'coordinates': [-99.119141, 19.495315]}",14186,,Indios Verdes,Metro 3,19.495315,-99.119141,Indios Verdes - Universidad,METRO,"19.495315, -99.119141"
+"{u'type': u'Point', u'coordinates': [-99.1448307, 19.36030391]}",42430,,Ermita,Metro Línea 12,19.36030391,-99.1448307,Tláhuac - Mixcoac,METRO,"19.36030391, -99.1448307"
+"{u'type': u'Point', u'coordinates': [-99.15724397, 19.38628539]}",14074,,Eugenia,Metro 3,19.38628539,-99.15724397,Indios Verdes - Universidad,METRO,"19.38628539, -99.15724397"
+"{u'type': u'Point', u'coordinates': [-99.15766239, 19.37046623]}",14240,,Parque de los Venados,Metro 12,19.37046623,-99.15766239,Tláhuac - Mixcoac,METRO,"19.37046623, -99.15766239"
+"{u'type': u'Point', u'coordinates': [-99.1784656, 19.40559422]}",14121,,Patriotismo,Metro 9,19.40559422,-99.1784656,Tacubaya - Pantitlán,METRO,"19.40559422, -99.1784656"
+"{u'type': u'Point', u'coordinates': [-99.13051844, 19.46290002]}",14104,,Misterios,Metro 5,19.46290002,-99.13051844,Pantitlán - Politécnico,METRO,"19.46290002, -99.13051844"
+"{u'type': u'Point', u'coordinates': [-99.200669, 19.397486]}",14055,,Observatorio,Metro 1,19.397486,-99.200669,Observatorio - Pantitlán,METRO,"19.397486, -99.200669"
+"{u'type': u'Point', u'coordinates': [-99.096696, 19.322002]}",14235,,Lomas Estrella,Metro 12,19.322002,-99.096696,Tláhuac - Mixcoac,METRO,"19.322002, -99.096696"
+"{u'type': u'Point', u'coordinates': [-98.96061659, 19.35048513]}",14207,,La Paz,Metro A,19.35048513,-98.96061659,La Paz - Pantitlán,METRO,"19.35048513, -98.96061659"
+"{u'type': u'Point', u'coordinates': [-99.1430819, 19.45520174]}",14100,,Tlatelolco,Metro 3,19.45520174,-99.1430819,Indios Verdes - Universidad,METRO,"19.45520174, -99.1430819"
+"{u'type': u'Point', u'coordinates': [-99.125973, 19.406106]}",14143,,La Viga,Metro 8,19.406106,-99.125973,Garibaldi - Constitución de 1917,METRO,"19.406106, -99.125973"
+"{u'type': u'Point', u'coordinates': [-99.17546153, 19.45261196]}",14123,,Popotla,Metro 2,19.45261196,-99.17546153,Cuatro Caminos - Tasqueña,METRO,"19.45261196, -99.17546153"
+"{u'type': u'Point', u'coordinates': [-99.074719, 19.317492]}",14233,,Periferico Ote,Metro 12,19.317492,-99.074719,Tláhuac - Mixcoac,METRO,"19.317492, -99.074719"
+"{u'type': u'Point', u'coordinates': [-99.05831337, 19.30328601]}",14231,,Olivos,Metro 12,19.30328601,-99.05831337,Tláhuac - Mixcoac,METRO,"19.30328601, -99.05831337"
+"{u'type': u'Point', u'coordinates': [-99.11457539, 19.43079953]}",14179,,San Lazaro,Metro Línea 1 correspondencia con línea B.,19.43079953,-99.11457539,Observatorio - Pantitlán,METRO,"19.43079953, -99.11457539"
+"{u'type': u'Point', u'coordinates': [-99.114463, 19.431822]}",14147,,San Lazaro,Metro Línea B correspondencia con línea 1.,19.431822,-99.114463,Buenavista - Ciudad Azteca,METRO,"19.431822, -99.114463"
+"{u'type': u'Point', u'coordinates': [-99.03402328, 19.29639028]}",14229,,Zapotitlan,Metro 12,19.29639028,-99.03402328,Tláhuac - Mixcoac,METRO,"19.29639028, -99.03402328"
+"{u'type': u'Point', u'coordinates': [-99.01443243, 19.28680057]}",14227,,Tlahuac,Metro 12,19.28680057,-99.01443243,Tláhuac - Mixcoac,METRO,"19.28680057, -99.01443243"
+"{u'type': u'Point', u'coordinates': [-99.14730906, 19.4376997]}",14167,,Hidalgo,Metro Línea 2 correspondencia con línea 3.,19.4376997,-99.14730906,Cuatro Caminos - Tasqueña,METRO,"19.4376997, -99.14730906"
+"{u'type': u'Point', u'coordinates': [-99.10157204, 19.35570839]}",14066,,Atlalilco,Metro Línea 8 correspondencia con línea 12.,19.35570839,-99.10157204,Garibaldi - Constitución de 1917,METRO,"19.35570839, -99.10157204"
+"{u'type': u'Point', u'coordinates': [-99.11890984, 19.42917056]}",42487,,Candelaria,Metro Línea 4 correspondencia con línea 1.,19.42917056,-99.11890984,Martín Carrera - Santa Anita,METRO,"19.42917056, -99.11890984"
+"{u'type': u'Point', u'coordinates': [-99.194511, 19.489367]}",14131,,Aquiles Serdan,Metro 7,19.489367,-99.194511,Barranca del Muerto - El Rosario,METRO,"19.489367, -99.194511"
+"{u'type': u'Point', u'coordinates': [-99.02711391, 19.53444312]}",14208,,Ciudad Azteca,Metro B,19.53444312,-99.02711391,Buenavista - Ciudad Azteca,METRO,"19.53444312, -99.02711391"
+"{u'type': u'Point', u'coordinates': [-99.18894768, 19.47873042]}",14132,,Camarones,Metro 7,19.47873042,-99.18894768,Barranca del Muerto - El Rosario,METRO,"19.47873042, -99.18894768"
+"{u'type': u'Point', u'coordinates': [-99.14331794, 19.42698509]}",42338,,Salto del Agua,Metro Línea 1 correspondencia con línea 8.,19.42698509,-99.14331794,Observatorio - Pantitlán,METRO,"19.42698509, -99.14331794"
+"{u'type': u'Point', u'coordinates': [-99.18572903, 19.39122414]}",14063,,San Pedro de Los Pinos,Metro 7,19.39122414,-99.18572903,Barranca del Muerto - El Rosario,METRO,"19.39122414, -99.18572903"
+"{u'type': u'Point', u'coordinates': [-99.10342813, 19.43628327]}",14146,,R. Flores Magon,Metro B,19.43628327,-99.10342813,Buenavista - Ciudad Azteca,METRO,"19.43628327, -99.10342813"
+"{u'type': u'Point', u'coordinates': [-99.023829, 19.294555]}",14228,,Tlaltenco,Metro 12,19.294555,-99.023829,Tláhuac - Mixcoac,METRO,"19.294555, -99.023829"
+"{u'type': u'Point', u'coordinates': [-99.09341812, 19.35760127]}",14067,,Iztapalapa,Metro 8,19.35760127,-99.09341812,Garibaldi - Constitución de 1917,METRO,"19.35760127, -99.09341812"
+"{u'type': u'Point', u'coordinates': [-99.17859435, 19.37360387]}",14242,,Insurgentes Sur,Metro 12,19.37360387,-99.17859435,Tláhuac - Mixcoac,METRO,"19.37360387, -99.17859435"
+"{u'type': u'Point', u'coordinates': [-99.14061427, 19.43649573]}",14141,,Bellas Artes,Metro Línea 8 correspondencia con línea 2.,19.43649573,-99.14061427,Garibaldi - Constitución de 1917,METRO,"19.43649573, -99.14061427"
+"{u'type': u'Point', u'coordinates': [-99.15389657, 19.43880248]}",14050,,Revolucion,Metro 2,19.43880248,-99.15389657,Cuatro Caminos - Tasqueña,METRO,"19.43880248, -99.15389657"
+"{u'type': u'Point', u'coordinates': [-99.14392948, 19.41301153]}",14154,,Obrera,Metro 8,19.41301153,-99.14392948,Garibaldi - Constitución de 1917,METRO,"19.41301153, -99.14392948"
+"{u'type': u'Point', u'coordinates': [-99.02979612, 19.52822456]}",14209,,Plaza Aragon,Metro B,19.52822456,-99.02979612,Buenavista - Ciudad Azteca,METRO,"19.52822456, -99.02979612"
+"{u'type': u'Point', u'coordinates': [-99.0172863, 19.37291562]}",14199,,Penon Viejo,Metro A,19.37291562,-99.0172863,La Paz - Pantitlán,METRO,"19.37291562, -99.0172863"
+"{u'type': u'Point', u'coordinates': [-99.139954, 19.443376]}",14165,,Garibaldi,Metro Línea B correspondencia con línea 8.,19.443376,-99.139954,Buenavista - Ciudad Azteca,METRO,"19.443376, -99.139954"
+"{u'type': u'Point', u'coordinates': [-99.15950775, 19.3789276]}",14083,,Division del Norte,Metro 3,19.3789276,-99.15950775,Indios Verdes - Universidad,METRO,"19.3789276, -99.15950775"
+"{u'type': u'Point', u'coordinates': [-99.13782477, 19.4260947]}",14149,,Isabel la Catolica,Metro 1,19.4260947,-99.13782477,Observatorio - Pantitlán,METRO,"19.4260947, -99.13782477"
+"{u'type': u'Point', u'coordinates': [-99.12541151, 19.42546738]}",14135,,Merced,Metro 1,19.42546738,-99.12541151,Observatorio - Pantitlán,METRO,"19.42546738, -99.12541151"
+"{u'type': u'Point', u'coordinates': [-99.1671896, 19.44424548]}",14126,,Normal,Metro 2,19.44424548,-99.1671896,Cuatro Caminos - Tasqueña,METRO,"19.44424548, -99.1671896"
+"{u'type': u'Point', u'coordinates': [-99.18664098, 19.40223457]}",14062,,Tacubaya,Metro Línea 7 correspondencia con línea 1 y línea 9.,19.40223457,-99.18664098,Barranca del Muerto - El Rosario,METRO,"19.40223457, -99.18664098"
+"{u'type': u'Point', u'coordinates': [-99.18734908, 19.40192086]}",14122,,Tacubaya,Metro Línea 9 correspondencia con línea 1 y línea 7.,19.40192086,-99.18734908,Tacubaya - Pantitlán,METRO,"19.40192086, -99.18734908"
+"{u'type': u'Point', u'coordinates': [-99.1645503, 19.37073951]}",14077,,Zapata,Metro Línea 3 correspondencia con línea 12.,19.37073951,-99.1645503,Indios Verdes - Universidad,METRO,"19.37073951, -99.1645503"
