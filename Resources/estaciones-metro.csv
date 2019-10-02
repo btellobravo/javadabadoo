@@ -140,7 +140,7 @@ Geometry,stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,trip_heads,agen
 "{u'type': u'Point', u'coordinates': [-99.06114578, 19.4613523]}",14211,,Villa de Aragon,Metro B,19.4613523,-99.06114578,Buenavista - Ciudad Azteca,METRO,"19.4613523, -99.06114578"
 "{u'type': u'Point', u'coordinates': [-99.03568625, 19.51470467]}",14225,,Tecnologico,Metro B,19.51470467,-99.03568625,Buenavista - Ciudad Azteca,METRO,"19.51470467, -99.03568625"
 "{u'type': u'Point', u'coordinates': [-99.16094542, 19.44185787]}",14098,,San Cosme,Metro 2,19.44185787,-99.16094542,Cuatro Caminos - Tasquena,METRO,"19.44185787, -99.16094542"
-"{u'type': u'Point', u'coordinates': [-99.074808, 19.350327]}",14201,,U A M  I,Metro 8,19.350327,-99.074808,Garibaldi - Constitucion de 1917,METRO,"19.350327, -99.074808"
+"{u'type': u'Point', u'coordinates': [-99.074808, 19.350327]}",14201,,UAM I,Metro 8,19.350327,-99.074808,Garibaldi - Constitucion de 1917,METRO,"19.350327, -99.074808"
 "{u'type': u'Point', u'coordinates': [-98.995894, 19.359804]}",14205,,Santa Marta,Metro A,19.359804,-98.995894,La Paz - Pantitlan,METRO,"19.359804, -98.995894"
 "{u'type': u'Point', u'coordinates': [-99.19173717, 19.42530549]}",14115,,Auditorio,Metro 7,19.42530549,-99.19173717,Barranca del Muerto - El Rosario,METRO,"19.42530549, -99.19173717"
 "{u'type': u'Point', u'coordinates': [-99.10739779, 19.37292574]}",14087,,Aculco,Metro 8,19.37292574,-99.10739779,Garibaldi - Constitucion de 1917,METRO,"19.37292574, -99.10739779"
