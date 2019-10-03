@@ -1,4 +1,4 @@
-Geometry,stop_id,stop_code,Station,stop_desc,Latitude,Longitude,trip_heads,agency_id,Geopoint
+Geometry,stop_id,stop_code,stop_station,stop_desc,stop_lat,stop_lon,trip_heads,agency_id,Geopoint
 "{u'type': u'Point', u'coordinates': [-99.17122364, 19.44864628]}",14124,,Colegio Militar,Metro 2,19.44864628,-99.17122364,Cuatro Caminos - Tasquena,METRO,"19.44864628, -99.17122364"
 "{u'type': u'Point', u'coordinates': [-99.17658806, 19.42025648]}",14119,,Chapultepec,Metro 1,19.42025648,-99.17658806,Observatorio - Pantitlan,METRO,"19.42025648, -99.17658806"
 "{u'type': u'Point', u'coordinates': [-99.10934, 19.378298]}",14095,,Apatlaco,Metro 8,19.378298,-99.10934,Garibaldi - Constitucion de 1917,METRO,"19.378298, -99.10934"
