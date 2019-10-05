@@ -21,32 +21,54 @@ function buildCharts(station) {
   //Use `d3.json` to fetch the station data for the plots
   d3.json(`/stations/${station}`).then((data) =>{
 
-    
-//     // stations, influx and its years 
-
-// Create the Traces
-var trace1 = {
-  x: data.,
-  y: data.high_jump,
-  mode: "markers",
-  type: "scatter",
-  name: "high jump",
-  marker: {
-    color: "#2077b4",
-    symbol: "hexagram"
+      // @TODO: Build a Bubble Chart using the sample data
+      const line_ids=data.line_ids;
+    const otu_labels=data.otu_labels;
+    const sample_values=data.sample_values;
+  
+      //start building the layouts for bubble plot:
+      let bubblelayout={
+        margin: {t: 0},
+        hovermode:"closests",
+        xaxis:{title:"OTU id"}
+      }
+  
+      let bubbledata=[
+        {
+          x: otu_ids,
+          y: sample_values,
+          text: otu_labels,
+          mode:"markers",
+          marker:{
+            size: sample_values,
+            color: otu_ids,
+            colorscale:"Blackbody"
+          }
+        }
+      ]
+  
+      Plotly.plot("bubble", bubbledata, bubblelayout);
+  
+      // @TODO: Build a Pie Chart
+      // HINT: You will need to use slice() to grab the top 10 sample_values,
+      // otu_ids, and labels (10 each).
+      let piedata=[
+        {
+          values:sample_values.slice(0,10),
+          labels:otu_ids.slice(0,10),
+          hovertext:otu_labels.slice(0,10),
+          hoverinfo:"hovertext",
+          type:"pie"
+        }
+      ];
+  
+      let pielayout={
+        margin:{ t: 0, l: 0}
+      };
+  
+      Plotly.plot("pie",piedata,pielayout)
+  })
   }
-};
-
-/ Plot the chart to a div tag with id "plot"
-Plotly.newPlot("plot", data, layout);
-
-
-// Define the plot layout
-var layout = {
-  title: "Olympic trends over the years",
-  xaxis: { title: "Year" },
-  yaxis: { title: "Olympic Event" }
-};
 
 
 function init() {
