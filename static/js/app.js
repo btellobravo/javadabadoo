@@ -23,8 +23,8 @@ function buildCharts(station) {
 
       // @TODO: Build a Bubble Chart using the sample data
       const line_ids=data.line_ids;
-    const otu_labels=data.otu_labels;
-    const sample_values=data.sample_values;
+      const line_labels=data.line_labels;
+      const Station_values=data.Station_values;
   
       //start building the layouts for bubble plot:
       let bubblelayout={
@@ -35,13 +35,13 @@ function buildCharts(station) {
   
       let bubbledata=[
         {
-          x: otu_ids,
-          y: sample_values,
-          text: otu_labels,
+          x: line_ids,
+          y: Station_values,
+          text: line_labels,
           mode:"markers",
           marker:{
-            size: sample_values,
-            color: otu_ids,
+            size: Station_values,
+            color: line_ids,
             colorscale:"Blackbody"
           }
         }
@@ -54,9 +54,9 @@ function buildCharts(station) {
       // otu_ids, and labels (10 each).
       let piedata=[
         {
-          values:sample_values.slice(0,10),
-          labels:otu_ids.slice(0,10),
-          hovertext:otu_labels.slice(0,10),
+          values:line_values.slice(0,10),
+          labels:line_ids.slice(0,10),
+          hovertext:line_labels.slice(0,10),
           hoverinfo:"hovertext",
           type:"pie"
         }
@@ -76,16 +76,16 @@ function init() {
   var selector = d3.select("#selDataset");
 
   // Use the list of station names to populate the select options
-  d3.json("/names").then((stationNames) => {
-    stationNames.forEach((station) => {
+  d3.json("/names").then((StationNames) => {
+    StationNames.forEach((Station) => {
       selector
         .append("option")
-        .text(station)
+        .text(Station)
         .property("value", station);
     });
 
     // Use the first sample from the list to build the initial plots
-    const firstStation = stationNames[0];
+    const firstStation = StationNames[0];
     buildCharts(firstStation);
     buildMetadata(firstStation);
   });
