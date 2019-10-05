@@ -49,20 +49,23 @@ def names():
     return jsonify(list(df.columns)[2:])
 
 
-# @app.route("/metadata/<sample>")
-# def sample_metadata(sample):
-#     """Return the MetaData for a given sample."""
-#     sel = [
-#         Samples_Metadata.sample,
-#         Samples_Metadata.ETHNICITY,
-#         Samples_Metadata.GENDER,
-#         Samples_Metadata.AGE,
-#         Samples_Metadata.LOCATION,
-#         Samples_Metadata.BBTYPE,
-#         Samples_Metadata.WFREQ,
-#     ]
+@app.route("/metadata/<sample>")
+def sample_metadata(sample):
+    """Return the MetaData for a given sample."""
+    sel = [
+        
+        inflow_coordinates.Total_influx_2012,
+        inflow_coordinates.Total_influx_2013,
+        inflow_coordinates.Total_influx_2014,
+        inflow_coordinates.Total_influx_2015,
+        inflow_coordinates.Total_influx_2016,
+        inflow_coordinates.Total_influx_2017,
+        inflow_coordinates.Total_influx_2018,
+        inflow_coordinates.Total_influx_2019,
+        
+    ]
 
-#     results = db.session.query(*sel).filter(Samples_Metadata.sample == sample).all()
+    results = db.session.query(*sel).filter(inflow_coordinates.Station == Station).all()
 
 #     # Create a dictionary entry for each row of metadata information
 #     sample_metadata = {}
