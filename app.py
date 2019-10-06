@@ -28,7 +28,6 @@ Base = automap_base()
 Base.prepare(db.engine, reflect=True)
 
 # Save references to each table
-inflow_coordinates = Base.classes.inflow_coordinates
 lineas_estaciones = Base.classes.lineas_estaciones
 
 
