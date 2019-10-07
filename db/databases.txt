@@ -1,3 +1,5 @@
+https://www.quackit.com/sqlite/tutorial/import_data_from_csv_file.cfm
+
 SQLite3 influx-lat_lon.sqlite
 
 CREATE TABLE inflow_coordinates(
