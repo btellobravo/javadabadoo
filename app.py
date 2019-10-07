@@ -20,6 +20,7 @@ app = Flask(__name__)
 
 app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///db/influx-lat_lon.sqlite"
 
+
 db = SQLAlchemy(app)
 
 # reflect an existing database into a new model
@@ -28,7 +29,11 @@ Base = automap_base()
 Base.prepare(db.engine, reflect=True)
 
 # Save references to each table
+
+inflow_coordinates=Base.classes.inflow_coordinates
 lineas_estaciones = Base.classes.lineas_estaciones
+station_year= Base.classes.station_year
+
 
 
 @app.route("/")
@@ -37,9 +42,19 @@ def index():
     return render_template("index.html")
 
 
+@app.route("/metro_map")
+def maps():
+    """Return the GEOJSON Map"""
+    return render_template("pj2_index.html")
+
+@app.route("/fun_facts")
+def nice():
+    """Return the Fun Facts page"""
+    return render_template("pj2_fun_fact_metro.html")
+
 @app.route("/names")
 def names():
-    """Return a list of station names"""
+    """Return a list of Station names."""
 
     # Use Pandas to perform the sql query
     stmt = db.session.query(lineas_estaciones).statement
@@ -62,10 +77,11 @@ def sample_metadata(Station):
         inflow_coordinates.Total_influx_2017,
         inflow_coordinates.Total_influx_2018,
         inflow_coordinates.Total_influx_2019,
-        
+        inflow_coordinates.Latitude,
+        inflow_coordinates.Longitude,
     ]
 
-    results = db.session.query(*sel).filter(inflow_coordinates.Station == Station).all()
+    results = db.session.query(*sel).filter(inflow_coordinates.Station== StationId).all()
 
     # Create a dictionary entry for each row of metadata information
     inflow_coordinates = {}
@@ -85,14 +101,14 @@ def sample_metadata(Station):
 
 
 @app.route("/Station/<Station>")
-def samples(Station):
-    """Return `line_ids`, `line_labels`,and `Station_values`."""
-    stmt = db.session.query(lineas_estaciones).statement
+def stations(Station):
+    """Return `line_ids`, `line_labels`,and `station_values`."""
+    stmt = db.session.query(inflow_coordinates).statement
     df = pd.read_sql_query(stmt, db.session.bind)
 
-    # Filter the data based on the sample number and
+    # Filter the data based on the Station and
     # only keep rows with values above 1
-    Station_data = df.loc[df[Station] > 1, ["line_id", "line_label", Station]]
+    Station_data = df.loc[df[StationId] > 1, ["line_id", "line_label", StationId]]
 
     # Sort by sample
     Station_data.sort_values(by=Station, ascending=False, inplace=True)
@@ -100,8 +116,8 @@ def samples(Station):
     # Format the data to send as json
     data = {
         "line_ids": Station_data.line_id.values.tolist(),
-        "Station_values": Station_data[Station].values.tolist(),
-        "line_labels": Station_data.line_label.tolist(),
+        "Station_values": Station_data[StationId].values.tolist(),
+        "Station_labels": Station_data.list_label.tolist(),
     }
     return jsonify(data)
 
