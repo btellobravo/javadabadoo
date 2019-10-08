@@ -127,7 +127,7 @@ for (var i = 0; i < linea1.length; i++) {
       color: "pink",
       fillColor: "pink",
       // Setting our circle's radius equal to the output of our markerSize function
-      // This will make our marker's size proportionate to its population
+      // This will make our marker's size proportionate to its influx
       radius: markerSize(linea1[i].influx)
     }).bindPopup("<h1>" + linea1[i].name + "</h1> <hr> <h3>Influx: " + linea1[i].influx + "</h3>").addTo(myMap);
   }
@@ -263,7 +263,7 @@ for (var i = 0; i < linea2.length; i++) {
       color: "blue",
       fillColor: "blue",
       // Setting our circle's radius equal to the output of our markerSize function
-      // This will make our marker's size proportionate to its population
+      // This will make our marker's size proportionate to its influx
       radius: markerSize(linea2[i].influx)
     }).bindPopup("<h1>" + linea2[i].name + "</h1> <hr> <h3>Influx: " + linea2[i].influx + "</h3>").addTo(myMap);
   }
@@ -384,7 +384,7 @@ for (var i = 0; i < linea3.length; i++) {
       color: "green",
       fillColor: "green",
       // Setting our circle's radius equal to the output of our markerSize function
-      // This will make our marker's size proportionate to its population
+      // This will make our marker's size proportionate to its influx
       radius: markerSize(linea3[i].influx)
     }).bindPopup("<h1>" + linea3[i].name + "</h1> <hr> <h3>Influx: " + linea3[i].influx + "</h3>").addTo(myMap);
   }
@@ -450,7 +450,7 @@ for (var i = 0; i < linea4.length; i++) {
       color: "#B0F9BB",
       fillColor: "#B0F9BB",
       // Setting our circle's radius equal to the output of our markerSize function
-      // This will make our marker's size proportionate to its population
+      // This will make our marker's size proportionate to its influx
       radius: markerSize(linea4[i].influx)
     }).bindPopup("<h1>" + linea4[i].name + "</h1> <hr> <h3>Influx: " + linea4[i].influx + "</h3>").addTo(myMap);
   }
@@ -531,7 +531,7 @@ var linea5 = [
       color: "yellow",
       fillColor: "yellow",
       // Setting our circle's radius equal to the output of our markerSize function
-      // This will make our marker's size proportionate to its population
+      // This will make our marker's size proportionate to its influx
       radius: markerSize(linea5[i].influx)
     }).bindPopup("<h1>" + linea5[i].name + "</h1> <hr> <h3>Influx: " + linea5[i].influx + "</h3>").addTo(myMap);
   }
@@ -602,7 +602,7 @@ for (var i = 0; i < line6.length; i++) {
       color: "#FF4633",
       fillColor: "#FF4633",
       // Setting our circle's radius equal to the output of our markerSize function
-      // This will make our marker's size proportionate to its population
+      // This will make our marker's size proportionate to its influx
       radius: markerSize(line6[i].influx)
     }).bindPopup("<h1>" + line6[i].name + "</h1> <hr> <h3>Influx: " + line6[i].influx + "</h3>").addTo(myMap);
   }
@@ -688,7 +688,7 @@ for (var i = 0; i < line7.length; i++) {
       color: "orange",
       fillColor: "orange",
       // Setting our circle's radius equal to the output of our markerSize function
-      // This will make our marker's size proportionate to its population
+      // This will make our marker's size proportionate to its influx
       radius: markerSize(line7[i].influx)
     }).bindPopup("<h1>" + line7[i].name + "</h1> <hr> <h3>Influx: " + line7[i].influx + "</h3>").addTo(myMap);
   }
@@ -799,7 +799,7 @@ for (var i = 0; i < line8.length; i++) {
       color: "#308E1F",
       fillColor: "#308E1F",
       // Setting our circle's radius equal to the output of our markerSize function
-      // This will make our marker's size proportionate to its population
+      // This will make our marker's size proportionate to its influx
       radius: markerSize(line8[i].influx)
     }).bindPopup("<h1>" + line8[i].name + "</h1> <hr> <h3>Influx: " + line8[i].influx + "</h3>").addTo(myMap);
   }
@@ -875,7 +875,7 @@ for (var i = 0; i < line9.length; i++) {
       color: "brown",
       fillColor: "brown",
       // Setting our circle's radius equal to the output of our markerSize function
-      // This will make our marker's size proportionate to its population
+      // This will make our marker's size proportionate to its influx
       radius: markerSize(line9[i].influx)
     }).bindPopup("<h1>" + line9[i].name + "</h1> <hr> <h3>Influx: " + line9[i].influx + "</h3>").addTo(myMap);
   }
@@ -941,7 +941,7 @@ for (var i = 0; i < lineA.length; i++) {
       color: "#C092C4",
       fillColor: "#C092C4",
       // Setting our circle's radius equal to the output of our markerSize function
-      // This will make our marker's size proportionate to its population
+      // This will make our marker's size proportionate to its influx
       radius: markerSize(lineA[i].influx)
     }).bindPopup("<h1>" + lineA[i].name + "</h1> <hr> <h3>Influx: " + lineA[i].influx + "</h3>").addTo(myMap);
   }
@@ -1062,7 +1062,7 @@ for (var i = 0; i < lineB.length; i++) {
       color: "gray",
       fillColor: "gray",
       // Setting our circle's radius equal to the output of our markerSize function
-      // This will make our marker's size proportionate to its population
+      // This will make our marker's size proportionate to its influx
       radius: markerSize(lineB[i].influx)
     }).bindPopup("<h1>" + lineB[i].name + "</h1> <hr> <h3>Influx: " + lineB[i].influx + "</h3>").addTo(myMap);
   }
@@ -1178,7 +1178,7 @@ for (var i = 0; i < line12.length; i++) {
       color: "#78866B",
       fillColor: "78866B",
       // Setting our circle's radius equal to the output of our markerSize function
-      // This will make our marker's size proportionate to its population
+      // This will make our marker's size proportionate to its influx
       radius: markerSize(line12[i].influx)
     }).bindPopup("<h1>" + line12[i].name + "</h1> <hr> <h3>Influx: " + line12[i].influx + "</h3>").addTo(myMap);
   }
